@@ -1,4 +1,4 @@
-<h1> Climate Changes Application for Master's Thesis </h1>
+<h1> Climate Changes Application</h1>
 <p> This repository contains the source code for analyzing the climate changes in Romania between 2009-2024 timespan.</p>
 <h2>Project Overview</h2>
 <p> This project aims to explore the impact of climate change in Romania by analyzing meteorological and air quality data to detect trends and identify patterns in climate variation. </p>
