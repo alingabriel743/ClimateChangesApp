@@ -135,9 +135,9 @@
 <p>The Streamlit application for studying the climate changes is based on two published articles regarding this theme:</p>
 <ol>
     <li>
-    <strong>Understanding Climate Change and Air Quality Over the Last Decade: Evidence From News and Weather Data Processing</strong> - We investigated the relationship between climate change and air quality, analyzing data over the past decade to uncover significant trends and correlations. Published in IEEE Access, 2023. [DOI: 10.1109/ACCESS.2020.3042571] (https://doi.org/10.1109/ACCESS.2020.3042571)
+    <strong>Understanding Climate Change and Air Quality Over the Last Decade: Evidence From News and Weather Data Processing</strong> - We investigated the relationship between climate change and air quality, analyzing data over the past decade to uncover significant trends and correlations. Published in IEEE Access, 2023. [DOI: 10.1109/ACCESS.2020.3042571] (http://dx.doi.org/10.1109/ACCESS.2023.3345466)
   </li>
   <li>
-    <strong>Anomaly Detection in Weather Phenomena: News and Nuanced Data Processing</strong> - The main focus was detecting anomalies in weather phenomena by integrating data from news articles and detailed data processing techniques. Published in Springer International Journal of Computational Intelligence, 2024. [DOI: 10.1007/s00500-020-05241-3] (https://doi.org/10.1007/s00500-020-05241-3)
+    <strong>Anomaly Detection in Weather Phenomena: News and Nuanced Data Processing</strong> - The main focus was detecting anomalies in weather phenomena by integrating data from news articles and detailed data processing techniques. Published in Springer International Journal of Computational Intelligence, 2024. [DOI: 10.1007/s00500-020-05241-3] (http://dx.doi.org/10.1007/s44196-024-00536-2)
   </li>
 </ol>
