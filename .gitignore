@@ -1,0 +1,16 @@
+misc
+.idea
+.ipynb_checkpoints
+climate/.idea
+climate/.ipynb_checkpoints
+climate/datasets/.ipynb_checkpoints
+climate/data/.ipynb_checkpoints
+climate/meteo_news_new/.ipynb_checkpoints
+climate/meteo_news_new/__pycache__
+climate/meteo_news_new/spiders/__pycache__
+climate/scripts_ds/.ipynb_checkpoints
+climate/scripts_gpt/.ipynb_checkpoints
+climate/scripts_gpt/.env
+streamlit-app/__pycache__
+streamlit-app/.ipynb_checkpoints
+streamlit-app/raport_statistici.xlsx

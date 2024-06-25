@@ -1,0 +1,1419 @@
+date,region,phenomena,county,pm10_quality,air_pressure,temperature,humidity
+8/14/2023,Muntenia,['Caniculă'],B,23.988,1008.2,26.235,46.625
+8/15/2023,Muntenia,"['Ploaie slabă', 'Caniculă']",B,22.214,1006.725,26.5025,47.85714286
+8/16/2023,Muntenia,"['Fulger', 'Vijelie', 'Averse', 'Ploaie', 'Furtună', 'Caniculă', 'Disconfort termic', 'Vânt puternic']",B,25,1005.075,27.52,48.28571429
+8/17/2023,Muntenia,"['Caniculă', 'Caniculă']",B,25.936,1004.2375,28.15,47
+8/18/2023,Muntenia,['Caniculă'],B,24.24,1004.6375,28.69375,46.42857143
+8/19/2023,Muntenia,"['Caniculă', 'Vijelie']",B,26.634,1005.35,28.53375,43.42857143
+8/20/2023,Muntenia,"['Caniculă', 'Ploi', 'Fulgere']",B,26.774,1004.8625,29.2425,44.85714286
+8/21/2023,Muntenia,"['Caniculă', 'Disconfort termic']",B,25.144,1004.5625,29.52625,47.71428571
+8/22/2023,Muntenia,"['Caniculă', 'Caniculă', 'Caniculă', 'Caniculă', 'Averse']",B,24.35,1005.0375,30.275,48
+8/23/2023,Muntenia,"['Caniculă', 'Furtună', 'Inundație', 'Caniculă', 'Furtună', 'Fulger', 'Averse torențiale', 'Grindină']",B,28.49,1003.475,30.68625,43.28571429
+8/24/2023,Muntenia,"['Caniculă', 'Vijelie', 'Furtună', 'Grindină', 'Caniculă', 'Furtună', 'Furtună', 'Furtună', 'Furtună', 'Grindină', 'Vijelie']",B,27.706,1001.9625,29.21375,52.14285714
+8/25/2023,Muntenia,"['Caniculă', 'Caniculă', 'Caniculă', 'Furtună', 'Grindină']",B,30.132,1001.975,28.4025,59.42857143
+8/26/2023,Muntenia,"['Caniculă', 'Caniculă']",B,25.38,1001.1125,29.875,51.14285714
+8/27/2023,Muntenia,['Caniculă'],B,26.722,1000.025,29.07125,44.85714286
+8/28/2023,Muntenia,"['Caniculă', 'Caniculă', 'Caniculă', 'Averse', 'Caniculă']",B,26.088,997.4625,29.21,41.85714286
+8/29/2023,Muntenia,"['Furtună', 'Vijelie', 'Grindină', 'Inundație', 'Caniculă', 'Furtună', 'Ploi torențiale', 'Grindină', 'Vijelie', 'Averse torențiale', 'Descărcări electrice', 'Intensificări ale vântului', 'Vijelii', 'Grindină']",B,29.664,993.7375,29.5575,42.42857143
+8/30/2023,Muntenia,"['Furtună', 'Grindină', 'Fulger', 'Rafale puternice de vânt', 'Inundație', 'Instabilitate atmosferică', 'Instabilitate atmosferică', 'Furtună', 'Grindină', 'Vijelie']",B,29.902,992.9125,27.37875,55.85714286
+8/31/2023,Muntenia,"['Furtună', 'Fulger', 'Inundație']",B,28.006,997.7125,25.38,64
+9/1/2023,Muntenia,['Ploaie'],B,28.884,1003.8125,24.6375,56.14285714
+9/2/2023,Muntenia,['Caniculă'],B,27.33,1007.5875,24.87625,50.14285714
+9/3/2023,Muntenia,"['Averse', 'Fulger', 'Vânt placut', 'Furtună', 'Caniculă']",B,26.578,1005.9625,24.6175,55.28571429
+9/4/2023,Muntenia,"['Inundație', 'Furtună', 'Vijelie']",B,27.272,1004.3375,20.81125,70.71428571
+9/5/2023,Muntenia,['Vant puternic'],B,26.314,1007.1625,23.04875,50.14285714
+9/6/2023,Muntenia,['Vant puternic'],B,25.24,1009.6125,23.3625,43.28571429
+9/7/2023,Muntenia,['Caniculă'],B,24.842,1009.8625,23.51125,42.42857143
+9/8/2023,Muntenia,['Secetă'],B,25.356,1009.1375,23.07,41.71428571
+9/10/2023,Muntenia,"['Caniculă', 'Furtună']",B,24.316,1008.125,22.675,43.85714286
+9/12/2023,Muntenia,['Secetă'],B,33.194,1004.3625,22.81375,50
+9/13/2023,Muntenia,['Caniculă'],B,35.044,1004.3,24.06,53.28571429
+9/14/2023,Muntenia,"['Caniculă', 'Furtună', 'Ploaie', 'Furtună', 'Inundație']",B,34.18,1002.3625,25.3125,49.85714286
+9/15/2023,Muntenia,"['Furtună', 'Trăsnet', 'Averse', 'Secetă', 'Furtună', 'Grindină', 'Furtună', 'Fulger']",B,31.374,1004.5875,24.235,61.42857143
+9/16/2023,Muntenia,"['Averse cu tunete și fulgere', 'Cantități mari de apă', 'Inundație']",B,21.28,1009.0625,21.67375,73.85714286
+9/17/2023,Muntenia,['Ploi'],B,18.148,1010.0625,21.91125,64.85714286
+9/18/2023,Muntenia,"['Caniculă', 'Secetă', 'Inundație']",B,22.648,1009.375,20.8225,59.85714286
+9/19/2023,Muntenia,"['Caniculă', 'Ploi zgomotoase', 'Averse locale']",B,24.612,1005.8625,20.25375,61.28571429
+9/20/2023,Muntenia,['Averse'],B,28.99,1004.7375,21.07,66.14285714
+9/21/2023,Muntenia,"['Furtună', 'Ploi slabe', 'Averse']",B,32.79,1003.7,22.46375,62.71428571
+9/22/2023,Muntenia,"['Caniculă', 'Caniculă']",B,36.062,1001.95,23.89875,63.14285714
+9/23/2023,Muntenia,"['Caniculă', 'Averse']",B,36.6,1002.5,25.3225,60.42857143
+9/24/2023,Muntenia,"['Caniculă', 'Furtună', 'Fenomene electrice', 'Vânt puternic', 'Inundație', 'Avalanșă', 'Vijelie', 'Grindină', 'Furtună', 'Fulger']",B,29.624,1002.8625,24.90375,66.14285714
+9/25/2023,Muntenia,['Inundație'],B,36.13,1007.9125,23.89625,52.28571429
+9/26/2023,Muntenia,"['Caniculă', 'Vânt puternic']",B,39.096,1009.1125,23.39,39.14285714
+9/27/2023,Muntenia,['Vânt puternic'],B,35.536,1008.9,23.005,38.57142857
+9/30/2023,Muntenia,['Caniculă'],B,30.708,1006.275,21.9875,42.85714286
+10/1/2023,Muntenia,"['Caniculă', 'Brumă']",B,29.364,1005.7,21.1475,48.85714286
+10/2/2023,Muntenia,"['Furtună', 'Fulger', 'Ploaie', 'Ploaie']",B,22.976,1010.5375,18.38625,58.28571429
+10/4/2023,Muntenia,['Caniculă'],B,,1009.4625,19.84,57.5
+10/5/2023,Muntenia,"['Furtună', 'Ploaie']",B,32.318,1011.2625,20.42875,53.42857143
+10/6/2023,Muntenia,['Ceață'],B,38.342,1009.8875,19.02375,56.85714286
+10/8/2023,Muntenia,"['Ploi', 'Vant puternic']",B,40.478,1001.675,17.04875,55
+10/9/2023,Muntenia,"['Ploaie', 'Vânt puternic']",B,20.024,1010.425,13.0175,48.28571429
+10/10/2023,Muntenia,['Viscol'],B,29.338,1007.6625,13.7025,52.57142857
+10/12/2023,Muntenia,['Caniculă'],B,41.318,1010.1,15.09625,59.57142857
+10/13/2023,Muntenia,['Caniculă'],B,53.91,1007.2625,17.1825,61
+10/14/2023,Muntenia,"['Caniculă', 'Furtună', 'Ploaie']",B,51.118,1004.375,18.22125,62.85714286
+10/15/2023,Muntenia,"['Ploaie', 'Ploaie', 'Vânt puternic']",B,38.362,996.275,18.8175,61.57142857
+10/16/2023,Muntenia,"['Ploaie', 'Inundație']",B,10.942,1004.175,11.99,83.14285714
+10/17/2023,Muntenia,"['Temperaturi sub normale', 'Innorari']",B,14.31,1009.45,10.29375,70.57142857
+10/18/2023,Muntenia,['Caniculă'],B,13.35,1006.4,12.3425,68.14285714
+10/19/2023,Muntenia,"['Soare', 'Temperaturi ridicate']",B,36.42,1001.4625,12.54,71.85714286
+10/20/2023,Muntenia,"['Vreme frumoasă', 'Temperaturi ridicate', 'Vant puternic']",B,48.672,995.05,16.8875,63.71428571
+10/21/2023,Muntenia,"['Ploaie', 'Vânt puternic']",B,57.04,997.8375,20.27,58.57142857
+10/22/2023,Muntenia,"['Ploaie', 'Furtună']",B,42.594,1000.5375,19.9125,56.85714286
+10/24/2023,Muntenia,['Ploi'],B,50.912,1002.975,16.86625,70
+10/25/2023,Muntenia,"['Ploaie', 'Furtună']",B,47.15,994.075,18.66625,61.57142857
+10/26/2023,Muntenia,['Caniculă'],B,29.706,991.9,18.915,71.57142857
+10/27/2023,Muntenia,"['Ploi', 'Vânt puternic']",B,33.386,989.4,17.55,69.14285714
+10/28/2023,Muntenia,['Ploaie'],B,19.042,993.9,18.90875,62.71428571
+10/29/2023,Muntenia,"['Vreme frumoasă', 'Temperaturi ridicate']",B,25.694,1003.728571,16.39714286,65.83333333
+10/30/2023,Muntenia,"['Caniculă', 'Inundație']",B,46.228,1006.1625,16.835,65.85714286
+10/31/2023,Muntenia,['Ploaie'],B,61.43,1000.5625,16.33,68.85714286
+11/1/2023,Muntenia,"['Ploi', 'Vant puternic']",B,28.51,999.3875,16.2325,61
+11/2/2023,Muntenia,"['Ploaie', 'Ceată']",B,20.944,999.2,12.68625,77.14285714
+11/3/2023,Muntenia,['Ploaie'],B,22.604,991.5375,14.13125,86
+11/4/2023,Muntenia,"['Ploaie', 'Descărcări electrice', 'Vânt puternic', 'Furtună', 'Vijelie', 'Averse moderate', 'Descărcări electrice', 'Grindină', 'Vijelie', 'Grindină', 'Furtună', 'Inundație']",B,18.564,986.6625,14.66875,96
+11/5/2023,Muntenia,"['Ploaie', 'Vant puternic', 'Averse']",B,20.038,989.775,14.1025,73.42857143
+11/6/2023,Muntenia,"['Vreme caldă', 'Vânt puternic']",B,15.148,998.4125,14.905,75
+11/7/2023,Muntenia,['Ploaie'],B,26.772,1006.9625,13.55625,75.57142857
+11/8/2023,Muntenia,['Ploaie'],B,27.826,1002.1625,11.6375,88.14285714
+11/9/2023,Muntenia,['Ger'],B,23.722,1008.2375,8.81625,76.71428571
+11/10/2023,Muntenia,"['Vant intens', 'Ploi']",B,26.306,1004.4125,9.30875,78.42857143
+11/11/2023,Muntenia,"['Ploaie', 'Vânt puternic', 'Vant puternic', 'Ninsori', 'Zapada', 'Ninsori', 'Ceata']",B,20.73,991.2625,11.26875,90.28571429
+11/12/2023,Muntenia,"['Viscol', 'Viscol']",B,18.644,996.925,8.8825,68.14285714
+11/13/2023,Muntenia,"['Ninsoare', 'Ploaie', 'Ploaie']",B,17.594,1003.7125,6.98375,68
+11/14/2023,Muntenia,"['Ploaie', 'Vânt puternic']",B,19.604,1000.4875,10.52625,71.28571429
+11/17/2023,Muntenia,"['Ploi', 'Lapoviță', 'Ninsori', 'Lapoviță', 'Ninsoare', 'Vânt puternic', 'Viscol', 'Ninsori']",B,21.226,999.6375,6.91375,86
+11/18/2023,Muntenia,"['Ploi', 'Vant puternic', 'Lapovita', 'Ninsoare', 'Intensificari ale vantului', 'Precipitatii mixte si abundente', 'Intensificari ale vantului', 'Inundație', 'Avalanșă']",B,14.266,995.1125,6.6625,91.85714286
+11/19/2023,Muntenia,['Vant puternic'],B,16.7,1001.5125,5.915,75
+11/20/2023,Muntenia,"['Ploaie', 'Înnorări', 'Ploaie ușoară', 'Vânt puternic']",B,31.662,999.9375,4.1675,85.42857143
+11/21/2023,Muntenia,"['Ploaie', 'Vânt activ']",B,28.264,999.3625,8.18125,83
+11/22/2023,Muntenia,"['Ploi', 'Vânt activ']",B,18.308,1002.7125,7.82625,90.28571429
+11/23/2023,Muntenia,"['Furtună', 'Fulger']",B,15.828,1008.875,4.76125,81.28571429
+11/24/2023,Muntenia,"['Ploaie', 'Inundație', 'Avalanșă', 'Viscol', 'Ninsori']",B,15.272,990.1142857,7.875714286,84.66666667
+11/25/2023,Muntenia,"['Ploi', 'Lapovita', 'Ninsori', 'Viscol', 'Polei', 'Ninsoare', 'Lapoviță', 'Vânt puternic']",B,12.018,981.8285714,5.118571429,95.16666667
+11/26/2023,Muntenia,"['Viscol', 'Precipitații']",B,11.844,984.1,2.072857143,82.33333333
+11/27/2023,Muntenia,"['Furtună', 'Polei', 'Ploi', 'Lapoviță']",B,12.808,998.6,1.55,67.85714286
+11/28/2023,Muntenia,"['Ploi', 'Lapoviță', 'Polei', 'Vânt puternic', 'Viscol']",B,14.628,989.65,2.6475,81.28571429
+11/29/2023,Muntenia,"['Vreme frumoasă', 'Vânt activ', 'Închidere de nori', 'Temperaturi scăzute']",B,11.59,991.475,4.7825,84.14285714
+11/30/2023,Muntenia,"['Ploi', 'Vant puternic']",B,23.798,1002.95,1.505,82.14285714
+12/1/2023,Muntenia,"['Caniculă', 'Furtună', 'Fulger', 'Ninsori']",B,34.122,995.9,5.04,77
+12/2/2023,Muntenia,"['Inundație', 'Avalanșă', 'Inundație']",B,50.402,992.0375,9.1575,79.57142857
+12/3/2023,Muntenia,"['Ploaie', 'Vânt puternic']",B,23.722,999.5857143,7.735714286,82.16666667
+12/4/2023,Muntenia,['Ger'],B,18.85,1013.075,1.495,80.57142857
+12/5/2023,Muntenia,['Ploi'],B,26.314,1008.3875,1.625,90
+12/6/2023,Muntenia,"['Ceata', 'Ploi', 'Lapoviță', 'Ninsoare', 'Ploaie', 'Polei']",B,19.598,1002.725,5.19125,93.85714286
+12/7/2023,Muntenia,"['Ninsori', 'Lapoviță', 'Ploaie', 'Inundație', 'Avalanșă', 'Polei']",B,12.838,1005.175,0.6425,97.28571429
+12/8/2023,Muntenia,['Ceață'],B,18.966,1007.5625,0.2675,95.85714286
+12/9/2023,Muntenia,"['Cer acoperit', 'Ceata', 'Precipitatii slabe', 'Polei']",B,20.832,1008.225,0.13625,96.14285714
+12/10/2023,Muntenia,"['Burniță', 'Ceată', 'Polei']",B,15.964,1005.1,1.08875,92.14285714
+12/11/2023,Muntenia,"['Burnită', 'Polei', 'Ploaie', 'Inundație']",B,22.892,1003.6875,1.5775,93.71428571
+12/12/2023,Muntenia,"['Înnorări', 'Ploi slabe', 'Ceață']",B,18.38,1000.9125,3.7125,93.85714286
+12/13/2023,Muntenia,"['Ceață', 'Ploaie', 'Vânt', 'Inundație', 'Ploi slabe']",B,18.57,997.3125,3.16375,96.71428571
+12/14/2023,Muntenia,"['Ploaie', 'Vânt activ']",B,31.354,993.6875,5.95625,93.28571429
+12/15/2023,Muntenia,"['Fulger', 'Ploaie', 'Vant puternic']",B,17.216,1010.6125,4.34375,90.28571429
+12/16/2023,Muntenia,"['Cer acoperit', 'Lapovita']",B,16.808,1022.25,2.92125,73.85714286
+12/17/2023,Muntenia,['Ceată'],B,17.728,1024.1125,0.68375,93.28571429
+12/18/2023,Muntenia,"['Ceata', 'Ghețuș', 'Ceață', 'Ninsoare']",B,23.868,1017.6125,3.065,88.28571429
+12/19/2023,Muntenia,['Ceata'],B,42.598,1011.8375,3.89375,87.14285714
+12/20/2023,Muntenia,['Ceață'],B,55.642,999.775,3.73125,90
+12/21/2023,Muntenia,"['Ceata', 'Ghetuș', 'Viscol', 'Vant puternic', 'Ploi slabe']",B,50.64,994.1,3.955,85.85714286
+12/22/2023,Muntenia,"['Vant puternic', 'Ploi', 'Lapovita', 'Ninsori']",B,23.944,983.0625,3.67125,80.57142857
+12/23/2023,Muntenia,"['Viscol', 'Ploaie']",B,12.79,986.325,5.09125,69.14285714
+12/24/2023,Muntenia,"['Viscol', 'Vijelie', 'Caniculă']",B,14.99,995.95,5.005,76.57142857
+12/25/2023,Muntenia,"['Caniculă', 'Furtună', 'Vijelie']",B,15.068,997.5875,10.43875,65.57142857
+12/26/2023,Muntenia,"['Inundație', 'Caniculă']",B,21.658,1002.0375,10.86375,67.28571429
+12/27/2023,Muntenia,"['Ceata', 'Vijelie']",B,31.2,1007.575,8.72375,73.28571429
+12/28/2023,Muntenia,['Ceață'],B,34.978,1012.875,5.55625,79.42857143
+12/29/2023,Muntenia,['Ceață'],B,40.46,1006.85,5.64625,77.85714286
+12/30/2023,Muntenia,['Ceață'],B,37.096,1005.3,5.57625,82.71428571
+12/31/2023,Muntenia,['Vreme frumoasă'],B,60.572,1006.6125,5.725,84.14285714
+1/1/2024,Muntenia,['Inundație'],B,67.312,1001.0125,5.1625,86
+1/2/2024,Muntenia,"['Cer curat', 'Vant activ']",B,33.664,1000.3875,6.23125,79.71428571
+1/3/2024,Muntenia,"['Vreme schimbătoare', 'Vânt activ', 'Inundație']",B,28.766,995.95,5.2175,84.28571429
+1/4/2024,Muntenia,"['Soare', 'Vant activ', 'Ploaie']",B,24.592,992.3875,8.0225,85.57142857
+1/5/2024,Muntenia,"['Căldură', 'Ceață']",B,27.086,999.9625,8.54875,71.71428571
+1/6/2024,Muntenia,"['Caniculă', 'Furtună', 'Inundație']",B,55.892,997.9375,7.25375,76.28571429
+1/7/2024,Muntenia,"['Ploi', 'Lapoviță', 'Ploi', 'Ninsori', 'Polei', 'Vânt puternic', 'Viscol']",B,31.532,988.2875,5.75,95.14285714
+1/8/2024,Muntenia,"['Ploaie', 'Lapoviță', 'Ninsori', 'Ger', 'Viscol', 'Viscol', 'Ninsori', 'Polei']",B,21.204,998.2625,-0.2375,82.85714286
+1/9/2024,Muntenia,"['Ninsori', 'Fulgi de zapadă', 'Vânt puternic', 'Ger', 'Viscol']",B,23.928,1015.925,-3.69875,66.14285714
+1/10/2024,Muntenia,"['Ger', 'Viscol']",B,33.54,1018.775,-3.3775,74.28571429
+1/12/2024,Muntenia,['Ninsori trecatoare'],B,24.03875,1006.7125,-2.16,81
+1/13/2024,Muntenia,['Ninsori'],B,17.9575,1006.7125,-2.17,76.57142857
+1/14/2024,Muntenia,"['Fulger', 'Ninsoare']",B,16.9525,998.2375,-0.7,75.85714286
+1/15/2024,Muntenia,['Ploaie'],B,35.3275,992.975,2.09125,69.28571429
+1/16/2024,Muntenia,"['Ger', 'Ninsoare', 'Vijelie']",B,21.7125,995.525,3.5925,69.71428571
+1/17/2024,Muntenia,"['Inundație', 'Ploaie', 'Ninsoare', 'Vânt puternic', 'Ger', 'Viscol']",B,30.83625,1002.8125,0.98125,72.875
+1/18/2024,Muntenia,"['Ploaie', 'Inundație', 'Ninsoare', 'Lapoviță']",B,34.07875,992.0375,5.18,76.42857143
+1/19/2024,Muntenia,"['Secetă', 'Ploi', 'Ninsori', 'Viscol', 'Furtună', 'Ceață', 'Viscol', 'Ninsoare', 'Viscol']",B,28.895,992.9125,5.89375,88.71428571
+1/21/2024,Muntenia,"['Ceata', 'Ger']",B,9.77625,1020.5625,-3.9275,94.42857143
+1/22/2024,Muntenia,"['Ceata', 'Inundație', 'Avalanșă', 'Ceață', 'Ghețuș']",B,20.585,1023.7,-6.27125,92.71428571
+1/23/2024,Muntenia,"['Ceată', 'Innorări', 'Frig patrunzător']",B,26.13666667,1015.0625,-6.43625,94.71428571
+1/24/2024,Muntenia,"['Innorări', 'Ceață', 'Vânt puternic', 'Polei']",B,26.58666667,1013.85,-3.67,96.14285714
+1/25/2024,Muntenia,"['Ninsori', 'Viscol']",B,26.09222222,1002.6,1.36125,85.71428571
+1/26/2024,Muntenia,"['Ninsori', 'Lapoviță', 'Polei']",B,24.45555556,1005.75,2.92625,81
+1/27/2024,Muntenia,"['Viscol', 'Ninsoare', 'Lapoviță', 'Vant puternic']",B,34.57777778,1007.6375,1.0975,87.85714286
+1/28/2024,Muntenia,"['Ninsori', 'Lapoviță', 'Ninsoare', 'Scădere temperaturi']",B,21.5,1017.7875,2.01,79.28571429
+1/29/2024,Muntenia,"['Fulger', 'Lapoviță', 'Caniculă']",B,22.28111111,1025.925,1.21875,79
+1/30/2024,Muntenia,['Ger'],B,26.729,1027.3625,0.87,73.71428571
+1/31/2024,Muntenia,"['Ceață', 'Ger']",B,27.266,1021.1875,0.98,76.85714286
+2/1/2024,Muntenia,['Ninsori'],B,32.246,1012,1.80875,75.71428571
+2/2/2024,Muntenia,"['Ploaie', 'Lapovita', 'Vant activ']",B,35.032,1010.8,2.595,83
+2/3/2024,Muntenia,"['Vant puternic', 'Caniculă']",B,24.543,1007.575,3.58125,82.42857143
+2/4/2024,Muntenia,"['Ceață', 'Ploaie', 'Caniculă', 'Vijelie']",B,21.824,1003.45,6.4975,76.28571429
+2/5/2024,Muntenia,"['Vânt puternic', 'Viscol', 'Ninsori viscolite', 'Vânt puternic', 'Caniculă']",B,20.96142857,998.6,11.63625,62.71428571
+2/6/2024,Muntenia,['Vant puternic'],B,23.18142857,1000.925,13.205,51.57142857
+2/7/2024,Muntenia,"['Vreme foarte caldă', 'Ploaie']",B,24.15333333,996.8,11.11,60
+2/8/2024,Muntenia,['Vreme caldă'],B,25.105,995.4375,11.1825,61.71428571
+2/9/2024,Muntenia,"['Vreme frumoasă', 'Vreme caldă']",B,31.913,994.3125,10.42375,63.42857143
+2/10/2024,Muntenia,"['Temperaturi ridicate', 'Innouri', 'Vreme placuta', 'Posibila ploaie', 'Temperaturi mari', 'Innouri', 'Vant linistit', 'Innouri', 'Temperaturi ridicate', 'Innouri', 'Posibila ploaie', 'Vijelie']",B,33.192,993.75,11.66375,59.85714286
+2/11/2024,Muntenia,"['Ploaie', 'Vânt puternic', 'Vijelie']",B,24.917,991.9625,14.2875,56.85714286
+2/12/2024,Muntenia,"['Furtună', 'Averse', 'Descărcări electrice', 'Caniculă', 'Inundație', 'Avalanșă']",B,27.26428571,990.1,11.51625,79
+2/13/2024,Muntenia,"['Ploaie', 'Ninsori', 'Vânt puternic', 'Inundație', 'Vânt puternic']",B,18.51428571,993.95,8.615,87.28571429
+2/14/2024,Muntenia,"['Inundație', 'Avalanșă', 'Furtună', 'Viscol', 'Ploaie']",B,19.23777778,1004.1875,8.27125,82.28571429
+2/15/2024,Muntenia,"['Caniculă', 'Fulger']",B,21.11272727,1009.6125,7.1925,69
+2/18/2024,Muntenia,['Ploaie'],B,32.71545455,1015.9875,4.49625,87.71428571
+2/19/2024,Muntenia,"['Ceată', 'Cer acoperit', 'Ploaie slabă']",B,27.15636364,1014.5875,6.22125,69.875
+2/20/2024,Muntenia,"['Innorări', 'Ploi slabe']",B,31.84727273,1010.825,6.28375,75
+2/21/2024,Muntenia,['Ploaie'],B,36.77818182,1009.9875,7.2575,80.14285714
+2/22/2024,Muntenia,['Ceață'],B,27.82818182,1006,6.49875,75.28571429
+2/23/2024,Muntenia,"['Secetă', 'Caniculă']",B,38.80818182,1000.175,10.215,58.57142857
+2/24/2024,Muntenia,"['Vreme frumoasă', 'Caniculă']",B,41.28272727,1001.7,12.61375,58.42857143
+2/25/2024,Muntenia,['Ploaie'],B,31.29727273,1002.85,12.3825,73.42857143
+2/26/2024,Muntenia,['Ploaie'],B,27.03125,1001.1625,10.245,79.57142857
+2/27/2024,Muntenia,['Caniculă'],B,22.59875,1007.0875,8.52375,76.71428571
+2/28/2024,Muntenia,"['Burniță', 'Ceata']",B,21.98111111,1009.8,7.41875,82.14285714
+2/29/2024,Muntenia,"['Ceata', 'Furtună', 'Vijelie', 'Fulger', 'Ploaie']",B,25.32727273,1009.1875,6.8175,94.85714286
+3/1/2024,Muntenia,"['Ploi slabe', 'Vant activ', 'Ploaie', 'Vant insistent']",B,23.37272727,1004.575,8.01625,85
+3/2/2024,Muntenia,['Ploaie'],B,26.34272727,1001.2,8.835714286,69.33333333
+3/3/2024,Muntenia,['Ploaie'],B,32.07545455,1001.785714,8.187142857,65.33333333
+3/4/2024,Muntenia,"['Ploaie', 'Inundație']",B,30.37090909,1000.9375,9.69875,71.14285714
+3/6/2024,Muntenia,"['Ploaie', 'Lapoviță', 'Ninsoare', 'Vânt puternic', 'Burniță', 'Ploaie slabă']",B,35.52090909,1004.75,7.41375,72.42857143
+3/7/2024,Muntenia,"['Ploi', 'Lapoviță', 'Vânt', 'Caniculă', 'Incendii', 'Secetă']",B,35.48181818,1006.65,6.73,61.71428571
+3/8/2024,Muntenia,"['Ploi', 'Ceata']",B,32.09,1008.775,5.29,69.57142857
+3/9/2024,Muntenia,"['Vreme frumoasă', 'Ploaie', 'Ceata', 'Ghetuș']",B,28.99454545,1007.475,6.5625,69.57142857
+3/10/2024,Muntenia,"['Furtună', 'Vijelie', 'Ploaie', 'Ceată']",B,29.52,1004.9,8.30875,61.14285714
+3/11/2024,Muntenia,"['Ploaie', 'Vânt puternic', 'Furtună', 'Vijelie', 'Inundație', 'Viscol', 'Vânt puternic', 'Ploaie']",B,27.75625,1003.175,9.54125,76.28571429
+3/12/2024,Muntenia,"['Ploaie', 'Ploaie']",B,27.29125,997.4625,8.74,92.57142857
+3/13/2024,Muntenia,"['Ceata', 'Ploi', 'Vreme mohorâtă', 'Ploi', 'Ninsori', 'Viscol', 'Precipitații', 'Ninsori']",B,24.13777778,996.8375,8.81625,96.28571429
+3/14/2024,Muntenia,"['Ploaie', 'Vânt puternic']",B,19.24454545,1002.7125,6.355,90
+3/15/2024,Muntenia,"['Ploaie', 'Ceata']",B,25.21,1006.025,6.48375,82.85714286
+3/16/2024,Muntenia,"['Soare', 'Timp frumos', 'Vânt domol']",B,28.98090909,1007.5625,9.185,76.42857143
+3/17/2024,Muntenia,"['Cer senin', 'Vreme frumoasă', 'Vânt domol']",B,27.06,1005.9125,10.42625,73.28571429
+3/18/2024,Muntenia,"['Ploaie', 'Vant activ', 'Viscol']",B,25.35545455,1001.3875,9.58625,71.57142857
+3/19/2024,Muntenia,"['Ploaie', 'Vânt activ', 'Ploaie']",B,24.93454545,1002.725,4.31625,82.42857143
+3/20/2024,Muntenia,"['Ploi', 'Furtună']",B,25.88363636,1007.075,6.46375,69.42857143
+3/21/2024,Muntenia,"['Înnorat', 'Ploi trecătoare', 'Vânt insistent']",B,18.12454545,1006.8625,6.63375,77.85714286
+3/22/2024,Muntenia,"['Ceata', 'Soare', 'Incalzire']",B,21.56454545,1006.975,7.60625,73.28571429
+3/23/2024,Muntenia,['Ploi'],B,21.09363636,1000.9125,11.1975,56.71428571
+3/24/2024,Muntenia,"['Ploi', 'Vânt', 'Ninsori', 'Vânt puternic', 'Averse', 'Ninsori', 'Vânt puternic', 'Ploaie']",B,26.45181818,991.575,12.88125,57.14285714
+3/25/2024,Muntenia,"['Ploi', 'Vânt puternic', 'Frig']",B,17.20875,991.7875,7.31625,81.57142857
+3/26/2024,Muntenia,['Ploaie'],B,22.24875,999.4,9.46125,56.85714286
+3/27/2024,Muntenia,"['Ploi slabe', 'Vânt insistent']",B,22.77,997.1125,11.25875,72
+3/28/2024,Muntenia,"['Ploi', 'Furtună', 'Vânt puternic']",B,26.28090909,994.3375,13.555,69.71428571
+3/29/2024,Muntenia,"['Vreme frumoasă', 'Vijelie']",B,25.93090909,1001.35,17.16125,52.85714286
+3/31/2024,Muntenia,"['Caniculă', 'Caniculă']",B,39.96909091,1001.575,19.21375,62.85714286
+4/1/2024,Muntenia,"['Caniculă', 'Furtună', 'Inundație', 'Vijelie', 'Ploaie', 'Vijelie']",B,49.268,999.8625,20.23875,58.28571429
+4/2/2024,Muntenia,['Vânt puternic'],B,37.667,994.225,17.80125,49.85714286
+4/3/2024,Muntenia,['Ploi'],B,19.6,1001.7875,14.74375,49.71428571
+4/5/2024,Muntenia,['Ploaie'],B,20.982,1006.5,16.04625,52.85714286
+8/15/2023,Moldova,['Vreme frumoasă și caldă'],IS,53.6225,1014.2,23.49,54
+8/16/2023,Moldova,"['Fulger', 'Ploaie', 'Caniculă', 'Disconfort termic']",IS,47.01,1012.95,25.79,55
+8/17/2023,Moldova,['Caniculă'],IS,40.7575,1011.15,25.55,58
+8/18/2023,Moldova,['Caniculă'],IS,47.145,1011.45,25.615,57
+8/19/2023,Moldova,['Caniculă'],IS,34.72333333,1011.7,25.25,63
+8/20/2023,Moldova,"['Caniculă', 'Ploi', 'Fulgere']",IS,35.02333333,1010.55,25.855,53
+8/21/2023,Moldova,"['Caniculă', 'Disconfort termic']",IS,37.62,1010.25,26.16,62
+8/22/2023,Moldova,"['Caniculă', 'Caniculă', 'Averse']",IS,33.93666667,1010.6,25.57,59
+8/23/2023,Moldova,"['Grindină', 'Vijelie', 'Furtună', 'Fulger', 'Averse torențiale', 'Grindină', 'Caniculă']",IS,55.205,1009.2,23.785,61
+8/25/2023,Moldova,"['Caniculă', 'Caniculă', 'Furtună', 'Grindină']",IS,48.0075,1007.05,25.505,53
+8/26/2023,Moldova,"['Caniculă', 'Caniculă']",IS,30.13333333,1005.75,26.69,54
+8/27/2023,Moldova,['Caniculă'],IS,22.04,1003.8,28.225,51
+8/28/2023,Moldova,"['Caniculă', 'Caniculă', 'Caniculă', 'Averse', 'Caniculă']",IS,24.93666667,1000.95,29.405,40
+8/29/2023,Moldova,"['Caniculă', 'Furtună', 'Ploi torențiale', 'Grindină', 'Vijelie']",IS,38.40666667,999.05,28.55,45
+8/30/2023,Moldova,"['Furtună', 'Grindină', 'Fulger', 'Rafale puternice de vânt', 'Inundație', 'Instabilitate atmosferică', 'Instabilitate atmosferică', 'Furtună', 'Grindină', 'Vijelie']",IS,26.13,999.8,21.46,79
+8/31/2023,Moldova,['Furtună'],IS,14.7175,1002.55,21.455,78.5
+9/3/2023,Moldova,"['Averse abundente', 'Fenomene electrice', 'Vijelie', 'Grindină']",IS,11.83333333,1011.9,19.54,74
+9/4/2023,Moldova,"['Inundație', 'Grindină', 'Vijelie']",IS,12.01333333,1011.65,17.46,85
+9/5/2023,Moldova,['Vant puternic'],IS,12.92,1015.65,19.1,65
+9/7/2023,Moldova,['Caniculă'],IS,28.305,1016.7,18.66,65
+9/14/2023,Moldova,"['Ploaie', 'Fulger', 'Grindină', 'Furtună']",IS,55.66,1006.7,23.065,62
+9/15/2023,Moldova,"['Ploi', 'Furtună', 'Trăsnet', 'Furtună', 'Grindină']",IS,21.645,1011.45,19.375,84
+9/16/2023,Moldova,"['Ploi', 'Vreme schimbătoare']",IS,25.8575,1016.5,18.68,74
+9/17/2023,Moldova,['Soare'],IS,29.21,1015.95,19.52,62
+9/18/2023,Moldova,"['Furtună', 'Grindină']",IS,27.11,1014.35,18.77,57
+9/19/2023,Moldova,"['Ploi', 'Vânt intensificat']",IS,22.4,1009.5,19.19,61
+9/20/2023,Moldova,['Averse'],IS,39.855,1009.6,17.97,79
+9/21/2023,Moldova,"['Furtună', 'Fulger', 'Trăsnet', 'Averse']",IS,34.3725,1009.3,18.93,75
+9/22/2023,Moldova,['Averse'],IS,27.625,1007.35,21.31,66
+9/23/2023,Moldova,"['Caniculă', 'Ceață']",IS,24.6375,1008.5,22.48,71
+9/24/2023,Moldova,"['Ceață', 'Soare', 'Averse sporadice', 'Vânt plăcut', 'Inundație', 'Avalanșă']",IS,26.5375,1011.15,21.58,75
+9/26/2023,Moldova,['Vânt puternic'],IS,57.8775,1018.05,18.34,59
+9/30/2023,Moldova,['Ploaie'],IS,47.04,1012.3,16.56,57
+10/1/2023,Moldova,['Brumă'],IS,30.37666667,1012.6,15.69,62
+10/2/2023,Moldova,"['Furtună', 'Fulger', 'Ploaie', 'Ploaie']",IS,24.39666667,1015.95,14.82,60
+10/4/2023,Moldova,['Ploaie'],IS,50.18,1013.9,16.02,63
+10/5/2023,Moldova,"['Furtună', 'Ploaie', 'Fulger']",IS,27.0825,1016.6,16.135,57
+10/6/2023,Moldova,['Ploaie'],IS,55.8425,1015.6,13.28,61
+10/8/2023,Moldova,"['Ploi', 'Vant puternic']",IS,10.99,1005.9,12.39,73
+10/9/2023,Moldova,"['Ploaie', 'Vânt puternic']",IS,13.16,1014.85,6.905,56
+10/13/2023,Moldova,"['Ploaie', 'Fulger']",IS,61.0025,1011.95,13.05,76
+10/14/2023,Moldova,"['Caniculă', 'Furtună', 'Ploaie']",IS,37.225,1007.75,16.18,69
+10/15/2023,Moldova,"['Ploaie', 'Vant puternic', 'Vânt puternic']",IS,14.445,1001.7,14.685,78
+10/16/2023,Moldova,"['Ploaie', 'Lapoviță']",IS,6.2925,1008.95,7.67,76
+10/17/2023,Moldova,"['Temperaturi sub normale', 'Innorari']",IS,25.225,1015.8,5.35,77
+10/19/2023,Moldova,"['Ploi', 'Racoare']",IS,32.36666667,1003.95,8.83,73
+10/20/2023,Moldova,"['Ploaie', 'Vreme schimbătoare', 'Vant insistent', 'Temperaturi ridicate']",IS,41.18,995.55,16.61,61
+10/21/2023,Moldova,"['Ploaie', 'Înnorări persistente', 'Averse']",IS,57.36666667,999.15,20.03,62
+10/22/2023,Moldova,"['Ploaie', 'Averse']",IS,46.86,1002.85,17.51,63
+10/24/2023,Moldova,['Ploi'],IS,57,1007.95,12.95,73
+10/25/2023,Moldova,"['Ploaie', 'Furtună']",IS,25.3,995.85,16.55,73
+10/26/2023,Moldova,['Ploi'],IS,24.21333333,994.4,13.86,80
+10/27/2023,Moldova,"['Ploi', 'Furtună', 'Descărcări electrice']",IS,20.47333333,990.7,15.77,73
+10/28/2023,Moldova,['Ploaie'],IS,25.48,995,15.92,49
+10/29/2023,Moldova,"['Vreme insorită', 'Temperaturi peste limitele normale']",IS,32.06666667,1007.35,12.255,61
+10/31/2023,Moldova,"['Ploaie', 'Descărcări electrice']",IS,34.96,1003.05,16.43,63
+11/1/2023,Moldova,"['Ploi', 'Vant puternic']",IS,13.22666667,1003.05,12.545,88
+11/2/2023,Moldova,"['Ploaie', 'Ceată']",IS,15.46,1004.95,8.865,85
+11/3/2023,Moldova,['Vânt puternic'],IS,12.68,997.1,13.91,76
+11/4/2023,Moldova,"['Vijelie', 'Averse moderate', 'Descărcări electrice', 'Grindină']",IS,17.75333333,989.95,14.88,93
+11/6/2023,Moldova,"['Vreme însorită', 'Vânt puternic', 'Vijelie']",IS,8.21,999.2,14.18,54
+11/7/2023,Moldova,['Ploaie'],IS,26.895,1011.15,10.41,66
+11/8/2023,Moldova,['Ploaie'],IS,22.01,1005.15,10.53,85
+11/9/2023,Moldova,['Ninga'],IS,25.81,1011.9,8.3,78
+11/10/2023,Moldova,"['Vant intens', 'Ploi']",IS,11.14,1008.6,9.735,71
+11/11/2023,Moldova,"['Ploaie', 'Vânt puternic']",IS,17.57,994.15,11.755,82
+11/13/2023,Moldova,"['Ploaie', 'Ninsoare', 'Ploaie']",IS,34.6,1007.65,5.645,76
+11/14/2023,Moldova,['Ploaie'],IS,41.85,1001.5,6.815,79
+11/17/2023,Moldova,"['Ploi', 'Ninsori', 'Ninsoare', 'Lapoviță', 'Viscol']",IS,22.46,1006.3,3.325,78
+11/18/2023,Moldova,"['Ninsori', 'Vant puternic', 'Ninsori', 'Viscol', 'Intensificari ale vantului', 'Precipitatii mixte si abundente', 'Inundație', 'Avalanșă']",IS,6.88,1005.7,2.125,94
+11/19/2023,Moldova,['Vant puternic'],IS,7.25,1009.1,-0.125,70
+11/20/2023,Moldova,"['Ploaie', 'Înnorări', 'Ploaie ușoară', 'Vânt puternic']",IS,7.43,1004.1,1.43,82
+11/21/2023,Moldova,"['Ploaie', 'Vânt activ']",IS,38.59,1004.3,6.1,85
+11/22/2023,Moldova,"['Ploi trecătoare', 'Innorări', 'Lapoviță']",IS,33.7,1011.3,4.09,90
+11/23/2023,Moldova,"['Furtună', 'Fulger', 'Viscol', 'Viscol']",IS,24.82,1010.1,2.29,75
+11/24/2023,Moldova,"['Ninsoare', 'Vant puternic', 'Viscol', 'Vant puternic', 'Inundație', 'Avalanșă', 'Viscol', 'Ninsori']",IS,33.87,990.35,8.76,58
+11/25/2023,Moldova,"['Ploi', 'Lapovita', 'Ninsori', 'Viscol', 'Polei']",IS,26.63,989.95,3.82,81
+11/26/2023,Moldova,"['Viscol', 'Precipitații']",IS,9.78,989.35,1.26,77
+11/27/2023,Moldova,"['Ninsoare', 'Polei', 'Ninsori', 'Lapoviță', 'Viscol']",IS,22.64,998.65,1.31,53
+11/28/2023,Moldova,"['Ploi', 'Lapoviță', 'Polei']",IS,17.39,993.3,1.58,74
+11/29/2023,Moldova,"['Vreme frumoasă', 'Soare', 'Câțiva nori', 'Vânt insistent']",IS,19.93,994.8,2.34,78
+11/30/2023,Moldova,"['Ploi', 'Lapoviță', 'Ninsoare', 'Vant puternic']",IS,28.26,1006.3,0.7,71
+12/1/2023,Moldova,"['Furtună', 'Fulger', 'Ninsori']",IS,26.63,996.1,5.85,75
+12/2/2023,Moldova,"['Inundație', 'Avalanșă', 'Ger', 'Ninsoare']",IS,42.03,994.8,4.24,95
+12/4/2023,Moldova,['Ger'],IS,46.55,1018.55,-1.8,80
+12/5/2023,Moldova,"['Cer acoperit', 'Ploi']",IS,,1013.3,1.44,82
+12/6/2023,Moldova,"['Lapoviță', 'Ninsoare', 'Zapada', 'Ploaie', 'Polei']",IS,19.02,1011.2,3.01,86
+12/7/2023,Moldova,"['Ninsori', 'Zăpadă', 'Polei']",IS,20.47,1013.35,-0.11,80
+12/8/2023,Moldova,"['Lapoviță', 'Polei']",IS,21.74,1013.9,-1.12,87
+12/9/2023,Moldova,"['Cer acoperit', 'Ceata', 'Precipitatii slabe', 'Polei']",IS,20.83,1014.15,-1.48,85
+12/10/2023,Moldova,"['Burniță', 'Ceată', 'Polei']",IS,11.59,1010,-1.7,92
+12/11/2023,Moldova,"['Burnită', 'Polei', 'Ninsoare']",IS,29.35,1007.55,0.61,90
+12/12/2023,Moldova,"['Înnorări', 'Ploi slabe']",IS,27.72,1004.3,0.65,94
+12/13/2023,Moldova,"['Ceață', 'Burniță', 'Polei', 'Ploi', 'Lapoviță']",IS,14.85,1001.85,1.66,98
+12/14/2023,Moldova,"['Ploaie', 'Vânt insistent']",IS,13.4,997.7,5.75,92
+12/15/2023,Moldova,"['Fulger', 'Ploaie', 'Vant puternic']",IS,11.41,1016.65,3.81,81
+12/16/2023,Moldova,"['Ceata', 'Temperaturi negative']",IS,18.66,1027.45,2.53,78
+12/17/2023,Moldova,"['Burnită', 'Ploaie']",IS,16.12,1025.45,4.84,74
+12/18/2023,Moldova,"['Vânt puternic', 'Vânt puternic', 'Ploaie', 'Lapoviță', 'Ninsoare']",IS,67.57,1019.3,7.7,70
+12/20/2023,Moldova,['Ceață'],IS,,1002.6,3.15,90
+12/21/2023,Moldova,['Ninsori slabe viscolite'],IS,,997.1,4.3,78
+12/22/2023,Moldova,['Ninsori viscolite'],IS,,982.65,4.96,71
+12/23/2023,Moldova,"['Ploaie', 'Ninsoare']",IS,,987.05,1.05,80
+12/24/2023,Moldova,"['Lapoviță', 'Ploaie', 'Polei', 'Vijelie']",IS,,997.55,2.7,59
+12/25/2023,Moldova,['Caniculă'],IS,,996.75,8.62,67
+12/26/2023,Moldova,['Fulger'],IS,,1003.1,9.75,74
+12/27/2023,Moldova,['Ceata'],IS,,1011.55,6.83,74
+12/28/2023,Moldova,['Ceață'],IS,,1015.65,2.41,83
+12/29/2023,Moldova,['Vreme frumoasă'],IS,76.08,1010,2.29,90
+12/30/2023,Moldova,['Ceață'],IS,81.52,1008.65,3.32,89
+12/31/2023,Moldova,['Ceata'],IS,51.99,1010.45,4.07,85
+1/2/2024,Moldova,"['Innorari', 'Soare', 'Ceata dimineata']",IS,34.43,1002.6,6.04,64
+1/3/2024,Moldova,"['Ploaie', 'Ninsoare']",IS,37.68,995.5,5.96,68
+1/4/2024,Moldova,"['Vreme schimbatoare', 'Ploi']",IS,30.43,992.5,7.95,72
+1/5/2024,Moldova,"['Căldură', 'Ceață']",IS,31.88,1002.5,5.22,76
+1/6/2024,Moldova,"['Furtună', 'Inundație']",IS,28.98,1003.15,4.58,86
+1/7/2024,Moldova,"['Ninsori', 'Lapoviță', 'Polei', 'Ninsori moderate cantitativ', 'Viscol']",IS,21.37,999.25,2.47,98
+1/8/2024,Moldova,"['Ninsori', 'Viscol', 'Ger', 'Ger', 'Viscol', 'Polei', 'Ninsori', 'Viscol']",IS,16.12,1009.15,-6.62,95
+1/9/2024,Moldova,"['Ger', 'Viscol', 'Fulgi de zapadă', 'Viscol']",IS,24.27,1026.1,-10.87,88
+1/10/2024,Moldova,['Ger'],IS,71.2,1023.95,-11.49,87
+1/12/2024,Moldova,"['Frig', 'Ninsori slabe', 'Ger']",IS,15.58,1012.4,-3.84,69
+1/13/2024,Moldova,"['Ninsori', 'Viscol', 'Ger']",IS,22.46,1008.25,-3.11,72
+1/14/2024,Moldova,"['Ninsoare', 'Viscol', 'Ger']",IS,36.23,1000.6,-4.2,78
+1/15/2024,Moldova,['Ninsori'],IS,33.7,994.55,-2.13,76
+1/16/2024,Moldova,"['Ger', 'Ninsoare']",IS,24.82,998.35,1.59,72
+1/17/2024,Moldova,['Ger'],IS,23.37,1006.35,-0.5,67
+1/18/2024,Moldova,"['Ploaie', 'Inundație']",IS,20.47,992.2,4.42,82
+1/19/2024,Moldova,"['Ninsori', 'Zapada', 'Ninsoare']",IS,13.04,998.25,2.28,95
+1/21/2024,Moldova,"['Fulgi de zapada', 'Ceata']",IS,27.35,1024.8,-1.88,78
+1/22/2024,Moldova,['Ceata'],IS,23.73,1026.45,-2.23,78
+1/23/2024,Moldova,"['Ninsori', 'Vânt puternic']",IS,23.73,1017.1,-0.39,71
+1/24/2024,Moldova,"['Innorări', 'Lapoviță', 'Polei', 'Viscol']",IS,41.85,1015.1,2.12,77
+1/25/2024,Moldova,"['Ploaie', 'Intensificari ale vantului']",IS,13.22,1003.6,5.6,72
+1/26/2024,Moldova,"['Ninsori', 'Lapoviță']",IS,4.89,1009.15,3.44,72
+1/27/2024,Moldova,"['Ninsoare', 'Lapoviță']",IS,20.1,1012.1,0.49,87
+1/28/2024,Moldova,"['Ninsori', 'Lapoviță', 'Ninsoare', 'Scădere temperaturi']",IS,11.41,1024.1,0.83,91
+1/29/2024,Moldova,"['Fulger', 'Lapoviță', 'Ger']",IS,23.91,1032.8,-1.81,83
+1/30/2024,Moldova,['Ger'],IS,42.93,1032.05,-1.68,79
+1/31/2024,Moldova,['Ger'],IS,58.51,1025.4,-0.25,83
+2/1/2024,Moldova,"['Ploaie', 'Lapoviță']",IS,66.12,1015.8,-1.69,89
+2/2/2024,Moldova,"['Vreme schimbatoare', 'Vant activ', 'Posibila ninsoare']",IS,28.98,1014.5,2.86,77
+2/3/2024,Moldova,['Ceata'],IS,20.29,1008.05,4.49,69
+2/4/2024,Moldova,"['Ceață', 'Ploaie']",IS,12.14,1004.1,7.72,71
+2/5/2024,Moldova,"['Vânt puternic', 'Ploaie', 'Vânt puternic']",IS,9.06,998.65,8.29,82
+2/6/2024,Moldova,['Vant puternic'],IS,47.1,1000.4,10.24,71
+2/7/2024,Moldova,['Vant puternic'],IS,45.47,996.65,7.81,71
+2/8/2024,Moldova,['Ploaie'],IS,23.73,998.15,5.9,76
+2/9/2024,Moldova,"['Vreme frumoasă', 'Vreme caldă']",IS,35.87,995.2,9.46,72
+2/10/2024,Moldova,"['Vreme de primavara', 'Innouri', 'Posibila ploaie', 'Temperaturi ridicate', 'Innouri', 'Posibila ploaie']",IS,35.68,996,10.73,81
+2/11/2024,Moldova,"['Vreme frumoasă', 'Înseninări', 'Vânt liniștit']",IS,47.82,995.1,10.81,74
+2/12/2024,Moldova,"['Furtună', 'Ploi locale', 'Inundație', 'Avalanșă']",IS,31.16,993.85,12.71,74
+2/13/2024,Moldova,"['Ploaie', 'Ninsori', 'Vânt puternic', 'Ploi', 'Lapoviță', 'Ninsoare', 'Vânt puternic']",IS,12.68,997.85,9.03,85
+2/14/2024,Moldova,"['Inundație', 'Avalanșă', 'Ploaie', 'Ninsori']",IS,4.89,1009.85,5.12,84
+2/15/2024,Moldova,['Ger'],IS,14.13,1016.1,4.77,80
+2/17/2024,Moldova,['Ploi'],IS,19.02,1019.5,4.61,88
+2/18/2024,Moldova,['Ploaie'],IS,11.59,1021.3,5.32,81
+2/19/2024,Moldova,"['Cer acoperit', 'Ploaie slabă', 'Lapoviță', 'Ninsoare', 'Polei']",IS,9.6,1020.2,2.85,66
+2/20/2024,Moldova,"['Ceață', 'Soare', 'Innorări', 'Ploi slabe']",IS,33.15,1015.75,3.81,72
+2/21/2024,Moldova,['Ploaie'],IS,57.79,1014.5,4.79,84
+2/22/2024,Moldova,['Ceață'],IS,35.87,1008.4,7.08,75
+2/23/2024,Moldova,['Caniculă'],IS,30.61,1003.35,11.04,60
+2/24/2024,Moldova,"['Vreme frumoasă', 'Ploaie']",IS,32.43,1005.9,11.79,72
+2/25/2024,Moldova,['Ploaie'],IS,27.9,1008.7,10.73,87
+2/26/2024,Moldova,['Ploaie'],IS,22.46,1007.85,11.56,68
+2/28/2024,Moldova,"['Burniță', 'Ceata']",IS,38.59,1015.3,7.38,74
+2/29/2024,Moldova,"['Ceata', 'Furtună', 'Fulger', 'Ploaie']",IS,36.05,1016.1,6.74,85
+3/1/2024,Moldova,"['Ploi pe suprafete restranse', 'Ploi izolate']",IS,23.73,1012.25,9.02,75
+3/2/2024,Moldova,['Ploaie'],IS,43.66,1009.5,8.06,67
+3/3/2024,Moldova,['Ploaie'],IS,36.59,1007.45,8.27,64
+3/4/2024,Moldova,['Ploaie'],IS,44.38,1007.2,8.36,64
+3/6/2024,Moldova,"['Ploaie', 'Lapoviță', 'Ninsoare', 'Ploi moderate', 'Ninsori']",IS,58.87,1010.35,6.76,69
+3/7/2024,Moldova,"['Ploi', 'Lapoviță', 'Caniculă', 'Incendii', 'Secetă']",IS,34.78,1014.9,4.75,61
+3/8/2024,Moldova,['Innorat'],IS,32.61,1015.15,3.07,61
+3/9/2024,Moldova,['Vreme frumoasă'],IS,57.25,1012.4,3.24,59
+3/10/2024,Moldova,"['Ploaie', 'Ceată', 'Furtună']",IS,60.69,1009.4,7.33,54
+3/11/2024,Moldova,"['Ploaie', 'Vânt puternic']",IS,15.58,1012.35,7.18,78
+3/12/2024,Moldova,['Ploaie'],IS,12.86,1006.8,7.22,90
+3/13/2024,Moldova,"['Ceata', 'Ploi', 'Ninsori', 'Precipitații']",IS,6.34,1004.3,5.11,99
+3/14/2024,Moldova,"['Ploaie', 'Lapoviță']",IS,24.27,1009.25,3.84,91
+3/15/2024,Moldova,['Ploaie'],IS,45.83,1011.3,5.57,84
+3/16/2024,Moldova,"['Soare', 'Vreme bună', 'Innorări trecătoare']",IS,32.43,1012,9.06,77
+3/17/2024,Moldova,"['Soare', 'Vreme bună', 'Vânt plăcut']",IS,15.4,1009.7,9.43,79
+3/18/2024,Moldova,"['Lapoviță', 'Viscol']",IS,16.3,1007.9,6.1,79
+3/19/2024,Moldova,"['Ploi locale', 'Vânt insistent', 'Ninsoare', 'Ploaie']",IS,11.41,1008.2,4.32,76
+3/20/2024,Moldova,"['Ploi', 'Ninsoare', 'Fulger']",IS,10.51,1011.65,5.02,81
+3/21/2024,Moldova,"['Înnorat', 'Ploi', 'Lapoviță', 'Vânt insistent']",IS,12.32,1011.85,5.27,94
+3/22/2024,Moldova,['Incalzire'],IS,26.45,1011.3,8.36,82
+3/23/2024,Moldova,['Ploi'],IS,23.91,1003.5,11.85,65
+3/24/2024,Moldova,"['Ploi', 'Vânt', 'Averse', 'Ninsori', 'Vânt puternic', 'Ploaie']",IS,16.12,996.3,9.39,79
+3/25/2024,Moldova,"['Ploi', 'Vânt puternic']",IS,16.84,995.95,7.35,76
+3/26/2024,Moldova,['Ploaie'],IS,38.22,1003.35,8.63,62
+3/28/2024,Moldova,"['Ploi', 'Furtună', 'Vânt puternic']",IS,31.7,997.55,13.42,63
+3/29/2024,Moldova,"['Vreme frumoasă', 'Ploaie']",IS,43.12,1003.15,15.86,48
+3/31/2024,Moldova,"['Caniculă', 'Caniculă']",IS,36.05,1004.95,19.83,57
+4/1/2024,Moldova,"['Ploaie', 'Vijelie']",IS,,1002.1,19.8,58
+4/2/2024,Moldova,['Vânt puternic'],IS,,994.65,17.98,52
+4/3/2024,Moldova,"['Ploi', 'Vânt']",IS,,1002.95,14.51,45
+4/5/2024,Moldova,"['Ploaie', 'Fulger']",IS,,1010.6,14.73,63
+8/15/2023,Transilvania,['Averse'],CJ,13.96,982.3,22.37333333,65.33333333
+8/16/2023,Transilvania,"['Grindină', 'Furtună', 'Ploaie', 'Vijelie', 'Grindină']",CJ,22.3,981.4666667,21.31333333,82.33333333
+8/17/2023,Transilvania,"['Averse', 'Grindină', 'Fulger']",CJ,19.94,979.8,24.2,72
+8/18/2023,Transilvania,"['Fulger', 'Grindină']",CJ,20.31,979.3666667,25.41666667,65.33333333
+8/19/2023,Transilvania,"['Grindină', 'Furtună']",CJ,23.21,979.8,25.47333333,65.33333333
+8/20/2023,Transilvania,"['Averse', 'Vant puternic']",CJ,21.76,980.5666667,25.98,64
+8/21/2023,Transilvania,"['Caniculă', 'Disconfort termic', 'Furtună', 'Fulger', 'Grindină']",CJ,24.66,980.8333333,26.06666667,64.33333333
+8/22/2023,Transilvania,"['Caniculă', 'Averse']",CJ,25.57,980.6666667,26.18,63.33333333
+8/23/2023,Transilvania,"['Grindină', 'Vijelie', 'Vijelie', 'Furtună', 'Fulger', 'Averse torențiale', 'Grindină']",CJ,19.94,978.6333333,23.74,78.66666667
+8/24/2023,Transilvania,"['Vijelie', 'Furtună', 'Grindină', 'Averse torențiale']",CJ,13.6,977.4666667,23.89333333,76.66666667
+8/25/2023,Transilvania,"['Furtună', 'Vijelie', 'Grindină', 'Caniculă']",CJ,12.87,977,24.38,63.66666667
+8/26/2023,Transilvania,['Caniculă'],CJ,16.32,976.0333333,25.42333333,64.66666667
+8/27/2023,Transilvania,['Caniculă'],CJ,17.77,973.2666667,26.47333333,65
+8/28/2023,Transilvania,"['Caniculă', 'Caniculă', 'Caniculă', 'Averse', 'Caniculă']",CJ,21.58,970.1,26.90666667,62
+8/29/2023,Transilvania,"['Ploi torențiale', 'Furtună', 'Grindină', 'Vijelie', 'Vijelie', 'Grindină', 'Furtună', 'Averse', 'Descărcări electrice']",CJ,18.68,967,25.49666667,58
+8/30/2023,Transilvania,"['Furtună', 'Grindină', 'Fulger', 'Rafale puternice de vânt', 'Instabilitate atmosferică']",CJ,8.34,968.2,19.17666667,88.33333333
+8/31/2023,Transilvania,"['Furtună', 'Grindină', 'Fulger', 'Furtună', 'Vânt puternic', 'Pagube materiale']",CJ,11.79,973.2666667,17.20333333,92
+9/1/2023,Transilvania,"['Grindină', 'Vânt puternic']",CJ,10.88,979.8,19.85666667,69.66666667
+9/2/2023,Transilvania,"['Furtună', 'Fulger']",CJ,11.06,982.4333333,19.87333333,68
+9/3/2023,Transilvania,"['Ploi torențiale', 'Fulger', 'Tunet', 'Vânt puternic', 'Vijelie', 'Grindină']",CJ,8.52,981.4,17.88666667,84
+9/4/2023,Transilvania,['Grindină'],CJ,6.53,980.9666667,18.3,76.66666667
+9/5/2023,Transilvania,['Ploaie'],CJ,9.25,984.1666667,19.05,69.66666667
+9/6/2023,Transilvania,['Vant puternic'],CJ,10.52,984.9,17.87333333,69.33333333
+9/7/2023,Transilvania,"['Furtună', 'Viscol']",CJ,14.87,985,17.91,68.33333333
+9/10/2023,Transilvania,"['Furtună', 'Grindină']",CJ,14.87,981,19.94,69
+9/14/2023,Transilvania,"['Ploaie', 'Fulger', 'Grindină', 'Vânt puternic', 'Furtună', 'Grindină']",CJ,30.64,976.5,20.27666667,78
+9/15/2023,Transilvania,"['Grindină', 'Furtună', 'Trăsnet', 'Furtună', 'Grindină', 'Vijelie', 'Furtună', 'Fulger']",CJ,1.27,979,19.72333333,84.66666667
+9/16/2023,Transilvania,"['Furtună', 'Averse abundente', 'Fenomene electrice']",CJ,9.97,981.8333333,20.05,80.33333333
+9/17/2023,Transilvania,['Averse'],CJ,8.7,982.2666667,19.37666667,78.33333333
+9/18/2023,Transilvania,"['Furtună', 'Grindină']",CJ,14.14,980.7333333,19.46666667,74
+9/19/2023,Transilvania,"['Caniculă', 'Furtună', 'Ploi zgomotoase']",CJ,17.04,976.3,17.82666667,82.66666667
+9/20/2023,Transilvania,"['Averse', 'Fenomene electrice']",CJ,9.25,978.9,19.16333333,75.66666667
+9/21/2023,Transilvania,"['Furtună', 'Fulger', 'Trăsnet', 'Averse']",CJ,13.24,976.8333333,17.74,78.33333333
+9/22/2023,Transilvania,"['Furtună', 'Averse']",CJ,21.21,973.9666667,22.14,68.66666667
+9/23/2023,Transilvania,"['Furtună', 'Averse', 'Descărcări electrice']",CJ,31.37,974.9666667,21.74,74
+9/24/2023,Transilvania,"['Furtună', 'Averse abundente', 'Descărcări electrice', 'Rafale puternice de vânt', 'Tunete', 'Fulgere', 'Furtună', 'Fulger', 'Vijelie', 'Grindină', 'Furtună', 'Fulger']",CJ,17.95,977.7666667,20.83666667,84.66666667
+9/26/2023,Transilvania,"['Furtună', 'Vânt puternic', 'Vijelie', 'Furtună', 'Vânt puternic']",CJ,25.38,985.3666667,19.27,71.33333333
+9/27/2023,Transilvania,['Vânt puternic'],CJ,24.66,985.1333333,17.87666667,69
+9/30/2023,Transilvania,"['Furtună', 'Ploaie']",CJ,21.58,981.8666667,16.54,69
+10/1/2023,Transilvania,"['Furtună', 'Averse cu descărcări electrice', 'Brumă']",CJ,13.24,981.8666667,15.71333333,78.66666667
+10/2/2023,Transilvania,"['Furtună', 'Vijelie', 'Fulger']",CJ,13.96,985.1333333,14.63333333,69.33333333
+10/3/2023,Transilvania,"['Ceață', 'Ger', 'Brumă']",CJ,18.86,985.3,13.32333333,76
+10/4/2023,Transilvania,['Ciclon'],CJ,20.85,983.8,14.46,80
+10/5/2023,Transilvania,"['Furtună', 'Fulger']",CJ,18.68,984.8,15.48,77.66666667
+10/6/2023,Transilvania,['Ploaie'],CJ,14.32,985.2,13.11666667,75
+10/7/2023,Transilvania,['Vijelie'],CJ,14.51,982.8333333,12.65333333,76
+10/8/2023,Transilvania,"['Ploi', 'Vant puternic']",CJ,13.24,976.9333333,12.46,80.33333333
+10/9/2023,Transilvania,"['Ploaie', 'Vânt puternic', 'Ninsori']",CJ,6.89,983.2,7.403333333,63.66666667
+10/12/2023,Transilvania,['Furtună'],CJ,23.75,982.1,13.40333333,83.33333333
+10/13/2023,Transilvania,['Ploaie'],CJ,30.1,980.8666667,13.68,88
+10/14/2023,Transilvania,"['Vijelie', 'Furtună']",CJ,26.83,976.5,14.3,84.66666667
+10/15/2023,Transilvania,"['Ploaie', 'Vant puternic', 'Vânt puternic']",CJ,14.32,971.6,12.19,89.66666667
+10/16/2023,Transilvania,['Ploaie'],CJ,8.34,979.2666667,8.48,72.33333333
+10/17/2023,Transilvania,"['Vant activ', 'Temperaturi modeste', 'Innorari']",CJ,15.23,982.1,4.906666667,80.66666667
+10/18/2023,Transilvania,"['Furtună', 'Grindină', 'Fulger']",CJ,19.76,979.1333333,5.863333333,79.33333333
+10/19/2023,Transilvania,"['Ploaie', 'Vant puternic']",CJ,34.45,971.5,6.986666667,82.66666667
+10/20/2023,Transilvania,"['Ploaie', 'Vant puternic']",CJ,39.71,963.6,15.84,72.66666667
+10/21/2023,Transilvania,"['Ploaie', 'Vânt puternic']",CJ,41.34,968,19.35666667,64.33333333
+10/22/2023,Transilvania,"['Ploaie', 'Vant puternic']",CJ,20.31,972.3666667,17.43666667,69.66666667
+10/23/2023,Transilvania,['Furtună'],CJ,13.78,978,14.78333333,76
+10/24/2023,Transilvania,['Ploi'],CJ,26.29,974.8666667,13.52666667,80.66666667
+10/25/2023,Transilvania,"['Furtună', 'Ciclon', 'Uragan', 'Tornadă', 'Vijelie', 'Grindină', 'Viscol', 'Avalanșă', 'Inundație', 'Ploaie', 'Furtună', 'Vânt puternic']",CJ,23.93,965.3666667,15.87333333,70.33333333
+10/26/2023,Transilvania,"['Furtună', 'Ploi', 'Vânt', 'Inundație']",CJ,22.48,963.9,12.77666667,89
+10/27/2023,Transilvania,"['Furtună', 'Vânt puternic', 'Averse abundente', 'Vijelie']",CJ,15.05,959.4333333,13.30666667,88.66666667
+10/28/2023,Transilvania,"['Furtună', 'Grindină', 'Ploaie']",CJ,7.98,967.5333333,12.59333333,72
+10/29/2023,Transilvania,"['Ploi slabe', 'Innorari temporare']",CJ,17.04,976.0666667,11.36,82.33333333
+10/30/2023,Transilvania,"['Furtună', 'Fulger']",CJ,23.57,977.7,11.77333333,77
+10/31/2023,Transilvania,"['Furtună', 'Ploaie', 'Descărcări electrice']",CJ,20.67,971.0666667,13.63333333,70.33333333
+11/1/2023,Transilvania,"['Ploi', 'Vant puternic']",CJ,7.25,973.6,11.76666667,81
+11/2/2023,Transilvania,"['Furtună', 'Ceată']",CJ,15.77,971.45,7.665,85.5
+11/3/2023,Transilvania,"['Furtună', 'Ploaie', 'Vânt puternic']",CJ,12.69,961.5,11.75,78
+11/4/2023,Transilvania,"['Furtună', 'Vijelie', 'Ploaie', 'Descărcări electrice', 'Vânt puternic']",CJ,16.5,960.3,9.33,99
+11/5/2023,Transilvania,"['Ploaie', 'Vant puternic', 'Furtună', 'Averse']",CJ,9.61,959.7,10.245,81
+11/6/2023,Transilvania,"['Ploaie', 'Vânt puternic']",CJ,10.88,971.7,11.065,69.5
+11/7/2023,Transilvania,['Ploaie'],CJ,25.93,979.6,7.825,87.5
+11/8/2023,Transilvania,"['Ploaie', 'Lapoviță', 'Ninsoare']",CJ,18.13,976.05,10.14,85
+11/9/2023,Transilvania,['Ninga'],CJ,,981.05,7.295,69.5
+11/10/2023,Transilvania,['Vant intens'],CJ,,974,4.7,75.5
+11/11/2023,Transilvania,"['Furtună', 'Ploaie', 'Ninsori', 'Vânt puternic', 'Viscol', 'Ninsori', 'Zapada', 'Ninsori']",CJ,,962.45,9.075,86
+11/12/2023,Transilvania,"['Viscol', 'Viscol', 'Ninsori', 'Vant puternic', 'Zapada', 'Viscol']",CJ,,968.55,6.055,76.5
+11/13/2023,Transilvania,"['Ploaie', 'Ninsoare']",CJ,,976.15,3.67,77
+11/14/2023,Transilvania,"['Ploaie', 'Ninsoare', 'Vânt puternic']",CJ,26.29,972.15,7.5,94
+11/17/2023,Transilvania,"['Ploi', 'Ninsori viscolite', 'Ninsori', 'Viscol', 'Viscol']",CJ,17.59,970.25,7.055,80.5
+11/18/2023,Transilvania,"['Ninsori', 'Viscol', 'Ninsori', 'Viscol', 'Polei']",CJ,7.43,972.9,3.425,97.5
+11/19/2023,Transilvania,"['Ninsoare', 'Viscol']",CJ,7.62,978.2,2.22,90
+11/20/2023,Transilvania,"['Ploaie', 'Ninsoare', 'Polei', 'Vânt puternic']",CJ,,973.7,3.3,98.5
+11/21/2023,Transilvania,"['Ploaie', 'Vânt activ', 'Ninsoare', 'Lapoviță']",CJ,,972.4,5.595,99
+11/22/2023,Transilvania,"['Ploi trecătoare', 'Innorări', 'Lapoviță', 'Ninsoare']",CJ,,976.95,5.675,93.5
+11/23/2023,Transilvania,"['Fulger', 'Furtună', 'Viscol', 'Viscol', 'Viscol']",CJ,,980.35,2.91,85
+11/24/2023,Transilvania,"['Ninsoare', 'Viscol', 'Viscol']",CJ,,962.2,3.29,84.5
+11/25/2023,Transilvania,"['Ninsori', 'Viscol', 'Zapada']",CJ,,957.55,1.905,87
+11/26/2023,Transilvania,['Viscol'],CJ,,962.45,-0.44,68
+11/27/2023,Transilvania,"['Ninsoare', 'Polei', 'Ninsori', 'Lapoviță']",CJ,,969.75,-1.825,77
+11/28/2023,Transilvania,"['Ninsori', 'Lapoviță', 'Polei', 'Vânt puternic', 'Viscol']",CJ,,957.75,1.965,85
+11/29/2023,Transilvania,"['Ninsori', 'Lapoviță', 'Vânt puternic']",CJ,,965.25,0.855,84.5
+11/30/2023,Transilvania,"['Ploi', 'Ninsoare', 'Vant puternic', 'Inundație', 'Furtună', 'Vânt puternic', 'Cod galben']",CJ,,971.7,0.04,77
+12/1/2023,Transilvania,"['Furtună', 'Vijelie', 'Fulger', 'Ninsori']",CJ,,962.7,5.275,93
+12/3/2023,Transilvania,"['Ninsoare', 'Vânt puternic']",CJ,,975.7,2.32,78
+12/4/2023,Transilvania,"['Ninsoare', 'Viscol']",CJ,,984.6,-1.02,68
+12/5/2023,Transilvania,"['Ger', 'Ninsoare']",CJ,,977.9,-0.535,73.5
+12/6/2023,Transilvania,"['Ninsoare', 'Ploi sporadice', 'Zapada']",CJ,,973.65,0.625,82.5
+12/7/2023,Transilvania,"['Ninsori', 'Lapoviță', 'Zăpadă', 'Polei']",CJ,,976.1,2.04,98
+12/8/2023,Transilvania,['Ninsori'],CJ,,979.15,2.37,90.5
+12/9/2023,Transilvania,"['Cer acoperit', 'Ceata', 'Precipitatii mixte', 'Polei']",CJ,,979.75,1.87,79.5
+12/10/2023,Transilvania,"['Ninsoare', 'Lapoviță']",CJ,,975.2,0.675,84
+12/11/2023,Transilvania,"['Burnită', 'Polei', 'Ninsoare']",CJ,,974.8,1.65,90
+12/12/2023,Transilvania,"['Ninsoare', 'Lapoviță', 'Vânt intens', 'Ploi moderate cantitativ']",CJ,,972.95,3.18,95.5
+12/13/2023,Transilvania,"['Ceață', 'Ploaie', 'Vânt', 'Ploi moderate']",CJ,,965.8,5.225,95
+12/14/2023,Transilvania,"['Ploaie', 'Ninsoare', 'Vânt puternic']",CJ,,966.95,6.19,94
+12/15/2023,Transilvania,['Ninga'],CJ,,984.2,3.38,83
+12/16/2023,Transilvania,"['Ninga', 'Vant intens']",CJ,,995.55,1.125,68.5
+12/17/2023,Transilvania,"['Burnită', 'Ceată']",CJ,,998.15,-1.655,88
+12/18/2023,Transilvania,"['Ceata', 'Burnită', 'Polei', 'Ghețuș', 'Vânt puternic', 'Ceață', 'Ninsoare']",CJ,,994.15,-1.7,99
+12/19/2023,Transilvania,['Ceata'],CJ,,987.35,-2.375,99
+12/20/2023,Transilvania,"['Ceață', 'Polei']",CJ,,974.2,-2.34,98.5
+12/21/2023,Transilvania,"['Viscol', 'Ninsori viscolite', 'Viscol']",CJ,,967.75,-0.36,99
+12/22/2023,Transilvania,"['Vijelie', 'Ninsori viscolite', 'Viscol', 'Furtună', 'Viscol', 'Ninsori']",CJ,,953.95,3.395,74
+12/23/2023,Transilvania,"['Viscol', 'Ninsori viscolite', 'Ninsoare', 'Vânt puternic']",CJ,,958.5,1.555,78.5
+12/24/2023,Transilvania,"['Viscol', 'Vânt', 'Viscol', 'Vijelie']",CJ,,968.6,0.85,98.5
+12/25/2023,Transilvania,"['Viscol', 'Furtună', 'Furtună', 'Vijelie']",CJ,,970.2,7.755,80.5
+12/26/2023,Transilvania,"['Fulger', 'Vijelie', 'Ceata']",CJ,,975.55,8.585,86
+12/27/2023,Transilvania,['Vijelie'],CJ,,983,3.955,85.5
+12/28/2023,Transilvania,"['Ceata', 'Ceață']",CJ,,985.55,-0.66,97
+12/29/2023,Transilvania,['Ceață'],CJ,,981.85,-1.125,98.5
+12/30/2023,Transilvania,['Ploaie'],CJ,,979.95,-0.515,99.5
+12/31/2023,Transilvania,['Ceata'],CJ,,979.1,0.755,96
+1/2/2024,Transilvania,"['Ploi slabe', 'Innorari', 'Vant activ']",CJ,,973.25,4.47,72
+1/3/2024,Transilvania,"['Ninsoare', 'Viscol', 'Ploaie', 'Vant puternic', 'Ninsori viscolite', 'Viscol', 'Ninsori viscolite', 'Avalanșă']",CJ,,965.45,5.28,81
+1/4/2024,Transilvania,"['Ninsoare', 'Vant puternic', 'Ploaie']",CJ,,963.95,5.58,84.5
+1/5/2024,Transilvania,['Vânt puternic'],CJ,,971.9,7.04,65.5
+1/6/2024,Transilvania,"['Furtună', 'Grindină', 'Viscol']",CJ,,969.3,3.03,90
+1/7/2024,Transilvania,"['Ninsori', 'Lapoviță', 'Ger']",CJ,,962.1,5.05,87
+1/8/2024,Transilvania,"['Ninsori', 'Viscol', 'Ger', 'Viscol', 'Viscol']",CJ,,970.95,2.59,76
+1/9/2024,Transilvania,"['Ger', 'Viscol', 'Ger']",CJ,,987.55,-0.58,53.5
+1/10/2024,Transilvania,"['Ger', 'Viscol']",CJ,,991.05,-4.815,73
+1/12/2024,Transilvania,"['Ninsoare', 'Viscol']",CJ,,980.7,-2.59,72.5
+1/13/2024,Transilvania,['Viscol'],CJ,,978.4,-2.975,66.5
+1/14/2024,Transilvania,"['Ninsoare', 'Viscol']",CJ,,969.9,-2.975,75.5
+1/15/2024,Transilvania,"['Ninsori', 'Viscol']",CJ,,962.65,0.195,79
+1/16/2024,Transilvania,"['Viscol', 'Ger', 'Ninsoare']",CJ,,968.65,0.24,65.5
+1/17/2024,Transilvania,"['Furtună', 'Viscol', 'Ninsoare', 'Vânt puternic']",CJ,,970.8,-1.11,65
+1/18/2024,Transilvania,"['Ploaie', 'Vânt puternic', 'Lapoviță', 'Ninsoare', 'Furtună', 'Vijelie', 'Ninsoare', 'Viscol']",CJ,,959.25,5.8,82.5
+1/19/2024,Transilvania,"['Ninsori', 'Viscol', 'Ninsoare', 'Viscol']",CJ,,965.85,3.145,96
+1/21/2024,Transilvania,"['Fulger', 'Zapada', 'Ger', 'Ceata']",CJ,,993.05,-4.095,76.5
+1/22/2024,Transilvania,"['Ger', 'Ceata']",CJ,,992.5,-4.095,79.5
+1/23/2024,Transilvania,"['Ninsori', 'Fulgi de zapadă', 'Ger', 'Vânt puternic']",CJ,,985.1,-2.01,79
+1/24/2024,Transilvania,"['Ninsori', 'Lapoviță', 'Viscol', 'Viscol']",CJ,,985.3,0.245,86
+1/25/2024,Transilvania,"['Ninsori', 'Viscol', 'Viscol', 'Intensificari ale vantului']",CJ,,976.75,3.24,86
+1/26/2024,Transilvania,"['Ninsori', 'Viscol', 'Viscol']",CJ,,980.5,3.1,72.5
+1/27/2024,Transilvania,"['Viscol', 'Ninsoare', 'Viscol']",CJ,,982.1,1.8,85
+1/28/2024,Transilvania,"['Ninsori', 'Fulgi de zapadă', 'Vânt puternic']",CJ,,991.9,2.86,79.5
+1/29/2024,Transilvania,"['Ger', 'Fulger', 'Lapoviță']",CJ,,997.95,0.62,74
+1/30/2024,Transilvania,['Ger'],CJ,,999.4,-1.94,76
+1/31/2024,Transilvania,"['Ceață', 'Ger']",CJ,,994.35,-2.06,79
+2/1/2024,Transilvania,"['Ninsori', 'Lapoviță']",CJ,,986.25,-1.435,85
+2/2/2024,Transilvania,"['Ninsori', 'Vant puternic']",CJ,,984.7,2.01,83.5
+2/3/2024,Transilvania,['Ceata'],CJ,,980.4,1.83,90.5
+2/4/2024,Transilvania,"['Ceață', 'Ninsori', 'Caniculă', 'Vijelie']",CJ,,976.75,4.925,84
+2/5/2024,Transilvania,"['Viscol', 'Ninsoare', 'Viscol', 'Ninsori viscolite', 'Vânt puternic', 'Viscol', 'Vijelie']",CJ,,972.3,10.49,65.5
+2/6/2024,Transilvania,['Vant puternic'],CJ,,973.55,10.69,50
+2/7/2024,Transilvania,"['Ploaie', 'Vant puternic']",CJ,,970.15,6.915,67.5
+2/8/2024,Transilvania,['Ploaie'],CJ,,966.85,7.395,71.5
+2/9/2024,Transilvania,['Ceață'],CJ,,965.2,5.525,86
+2/10/2024,Transilvania,"['Ploi slabe', 'Vant puternic', 'Innouri', 'Posibila ploaie', 'Vant intens', 'Temperaturi ridicate', 'Lapovita', 'Ninsoare', 'Vant puternic', 'Vijelie']",CJ,,964.5,9.965,71.5
+2/11/2024,Transilvania,"['Ploaie', 'Vânt puternic', 'Vijelie']",CJ,,961.45,11.69,59.5
+2/12/2024,Transilvania,"['Furtună', 'Grindină', 'Viscol', 'Ninsoare']",CJ,,961.9,9.976666667,72
+2/13/2024,Transilvania,"['Ploaie', 'Ninsori', 'Vânt puternic', 'Viscol', 'Ninsoare', 'Vânt puternic']",CJ,,969,6.906666667,92
+2/14/2024,Transilvania,"['Vijelie', 'Furtună', 'Viscol']",CJ,,980.3333333,5.59,65
+2/15/2024,Transilvania,"['Ger', 'Fulger']",CJ,,984.3333333,3.776666667,64.33333333
+2/17/2024,Transilvania,"['Furtună', 'Ninsori']",CJ,,986.7,4.32,67.66666667
+2/18/2024,Transilvania,['Ploaie'],CJ,,989.2333333,6.476666667,74.33333333
+2/19/2024,Transilvania,"['Ninsoare', 'Lapoviță', 'Polei']",CJ,,985.4,3.196666667,75
+2/20/2024,Transilvania,"['Ninsoare', 'Lapoviță', 'Ploaie']",CJ,,983.0333333,5.313333333,80
+2/21/2024,Transilvania,"['Ploaie', 'Lapoviță']",CJ,,982.2666667,4.68,87
+2/22/2024,Transilvania,['Ceață'],CJ,,975.9,4.596666667,81
+2/23/2024,Transilvania,"['Furtună', 'Grindină']",CJ,,969.6333333,9.603333333,59.66666667
+2/24/2024,Transilvania,"['Ploi', 'Vant puternic', 'Averse']",CJ,,972,10.73666667,63.66666667
+2/25/2024,Transilvania,['Ploaie'],CJ,,973.7333333,10.94333333,76
+2/26/2024,Transilvania,['Ploaie'],CJ,,971.7333333,9.23,76
+2/27/2024,Transilvania,['Caniculă'],CJ,,976.2666667,10.30666667,66.33333333
+2/28/2024,Transilvania,['Vânt puternic'],CJ,,979.7666667,10.23333333,62.33333333
+2/29/2024,Transilvania,"['Furtună', 'Vijelie', 'Fulger']",CJ,,979.7666667,8.566666667,69.33333333
+3/1/2024,Transilvania,"['Ploi slabe', 'Vant activ', 'Precipitatii mixte', 'Rafale de vant']",CJ,,974.0333333,9.603333333,72
+3/2/2024,Transilvania,['Ploaie'],CJ,,972.2666667,11.45666667,50.33333333
+3/3/2024,Transilvania,['Ploaie'],CJ,,972.1333333,8.976666667,70.66666667
+3/4/2024,Transilvania,"['Ciclon', 'Furtună', 'Ploaie']",CJ,,971.0666667,9.223333333,66.66666667
+3/6/2024,Transilvania,"['Ploaie', 'Lapoviță', 'Ninsoare', 'Vânt puternic', 'Ninsori', 'Grindină', 'Fulger']",CJ,22.12,974.1333333,7.61,83.33333333
+3/7/2024,Transilvania,"['Ploi', 'Lapoviță', 'Vânt', 'Grindină', 'Furtună']",CJ,19.4,976.7333333,6.146666667,82
+3/8/2024,Transilvania,"['Ninsori', 'Ceata']",CJ,19.76,979.3,5.883333333,71.66666667
+3/9/2024,Transilvania,['Ceață'],CJ,20.13,977.5666667,6.733333333,74.66666667
+3/10/2024,Transilvania,"['Furtună', 'Vijelie', 'Grindină', 'Viscol']",CJ,23.75,974.4666667,7.49,69
+3/11/2024,Transilvania,"['Ploaie', 'Vânt puternic', 'Viscol', 'Vânt puternic', 'Ploaie']",CJ,22.66,971.3666667,11.52666667,69.33333333
+3/12/2024,Transilvania,"['Ploaie', 'Ninsori', 'Lapoviță']",CJ,38.98,969.2666667,10.15333333,78
+3/13/2024,Transilvania,"['Ploaie', 'Ninsori', 'Viscol', 'Ninsori', 'Viscol', 'Ninsori']",CJ,34.99,970.0666667,7.42,93
+3/14/2024,Transilvania,['Ninsoră'],CJ,21.03,974.6666667,7.463333333,84.33333333
+3/15/2024,Transilvania,['Ploaie'],CJ,18.68,976.7,8.606666667,83.33333333
+3/16/2024,Transilvania,"['Cer senin', 'Vreme schimbătoare', 'Vânt intens']",CJ,13.96,978.4,8.91,73
+3/17/2024,Transilvania,"['Cer senin', 'Vreme schimbătoare', 'Vânt intens']",CJ,15.59,977.6666667,8.503333333,87.33333333
+3/18/2024,Transilvania,"['Ninsoare', 'Viscol']",CJ,9.43,975.2333333,5.13,68.66666667
+3/19/2024,Transilvania,"['Ninsori', 'Lapoviță', 'Vânt puternic', 'Ninsoare', 'Vânt puternic']",CJ,10.52,976.7666667,3.613333333,58.66666667
+3/20/2024,Transilvania,"['Lapoviță', 'Ninsoare', 'Fulger']",CJ,10.7,980.6333333,6.696666667,61.33333333
+3/21/2024,Transilvania,"['Ninsori', 'Vânt puternic']",CJ,19.58,979.0666667,8.48,51.33333333
+3/22/2024,Transilvania,"['Ploi slabe', 'Vant activ']",CJ,28.83,978.5333333,7.973333333,64
+3/23/2024,Transilvania,['Ploi'],CJ,28.47,971.7333333,10.25333333,68
+3/24/2024,Transilvania,"['Ninsori', 'Lapoviță', 'Ploi', 'Vânt', 'Ninsori', 'Vânt puternic', 'Ninsori', 'Vânt puternic']",CJ,19.58,965.4,8.513333333,67.33333333
+3/25/2024,Transilvania,"['Precipitații mixte', 'Viscol']",CJ,11.6,965.9666667,6.293333333,66
+3/26/2024,Transilvania,['Vânt puternic'],CJ,10.52,970.6666667,6.856666667,60.33333333
+3/27/2024,Transilvania,"['Vijelie', 'Furtună', 'Vânt puternic']",CJ,14.87,965.1333333,12.51333333,51
+3/28/2024,Transilvania,"['Furtună', 'Vijelie', 'Grindină', 'Viscol', 'Ninsoare', 'Vijelie']",CJ,31.01,964.2,12.84,71
+3/29/2024,Transilvania,['Ploaie'],CJ,12.15,973.1666667,14.79333333,56
+3/31/2024,Transilvania,['Caniculă'],CJ,58.02,972.1,17.81,49.33333333
+4/1/2024,Transilvania,"['Furtună', 'Vijelie', 'Vijelie', 'Ploaie', 'Vijelie']",CJ,,969.7333333,20.71333333,36.66666667
+4/2/2024,Transilvania,"['Furtună', 'Averse', 'Fenomene electrice', 'Vânt puternic']",CJ,,966.6333333,13.99,54
+4/3/2024,Transilvania,"['Ploi', 'Vânt']",CJ,,973.8,11.97333333,58.33333333
+4/5/2024,Transilvania,"['Furtună', 'Grindină']",CJ,,979.9,13.31666667,72
+8/14/2023,Oltenia,['Caniculă'],DJ,,1005.433333,25.27,55.33333333
+8/15/2023,Oltenia,"['Ploi torențiale', 'Vânt puternic', 'Caniculă']",DJ,,1004.366667,23.41333333,67.33333333
+8/16/2023,Oltenia,"['Ploaie', 'Furtună', 'Caniculă', 'Disconfort termic']",DJ,,1002.3,24.94333333,66.33333333
+8/17/2023,Oltenia,['Caniculă'],DJ,,1001.4,26.9,61.33333333
+8/18/2023,Oltenia,['Caniculă'],DJ,,1001.5,27.49333333,55.66666667
+8/19/2023,Oltenia,"['Caniculă', 'Vijelie']",DJ,,1002.366667,27.69,52.66666667
+8/20/2023,Oltenia,['Caniculă'],DJ,,1003,26.33666667,58.66666667
+8/21/2023,Oltenia,"['Caniculă', 'Disconfort termic']",DJ,,1002.666667,29.35333333,56.66666667
+8/22/2023,Oltenia,"['Caniculă', 'Averse']",DJ,,1002.933333,28.39333333,61.66666667
+8/23/2023,Oltenia,"['Caniculă', 'Furtună', 'Caniculă']",DJ,,1001.2,28.58333333,62.66666667
+8/24/2023,Oltenia,"['Vijelie', 'Furtună', 'Grindină', 'Furtună', 'Grindină', 'Vijelie']",DJ,,999.6666667,27.98,64.66666667
+8/25/2023,Oltenia,"['Caniculă', 'Caniculă']",DJ,,999.6666667,27.89666667,63
+8/26/2023,Oltenia,['Caniculă'],DJ,,998.6,28.15666667,61
+8/27/2023,Oltenia,['Caniculă'],DJ,,996.7,28.66,57.33333333
+8/28/2023,Oltenia,"['Caniculă', 'Caniculă', 'Caniculă', 'Averse', 'Caniculă']",DJ,,993.9333333,28.15666667,52
+8/29/2023,Oltenia,"['Furtună', 'Vijelie', 'Grindină', 'Inundație', 'Caniculă', 'Furtună', 'Ploi torențiale', 'Grindină', 'Vijelie', 'Vijelie', 'Grindină', 'Averse torențiale', 'Descărcări electrice', 'Intensificări ale vântului']",DJ,,989.8333333,25.94,60.66666667
+8/30/2023,Oltenia,"['Furtună', 'Grindină', 'Fulger', 'Rafale puternice de vânt', 'Instabilitate atmosferică']",DJ,,991.3,22.91333333,79
+8/31/2023,Oltenia,['Vânt'],DJ,,996.3666667,23.13666667,65.5
+9/1/2023,Oltenia,['Vânt puternic'],DJ,,1002.4,22.95666667,71
+9/2/2023,Oltenia,['Caniculă'],DJ,,1005.166667,21.17666667,68.66666667
+9/3/2023,Oltenia,"['Averse', 'Fulger', 'Vânt placut']",DJ,,1005.2,23.285,57.5
+9/4/2023,Oltenia,['Inundație'],DJ,,1002.8,18.86666667,82
+9/5/2023,Oltenia,['Vant puternic'],DJ,,1005.4,21.62,71.33333333
+9/6/2023,Oltenia,['Averse'],DJ,,1007.333333,22.01666667,61.66666667
+9/7/2023,Oltenia,['Caniculă'],DJ,,1007.4,22.07,56
+9/8/2023,Oltenia,['Secetă'],DJ,,1006.566667,22.05333333,59.66666667
+9/10/2023,Oltenia,"['Caniculă', 'Furtună']",DJ,,1005.2,21.63666667,57.33333333
+9/12/2023,Oltenia,['Secetă'],DJ,,1001.566667,22.21333333,60.33333333
+9/14/2023,Oltenia,"['Caniculă', 'Vânt puternic', 'Furtună']",DJ,,1000.833333,22.43,66
+9/15/2023,Oltenia,"['Furtună', 'Trăsnet', 'Secetă']",DJ,,1002.133333,23.69333333,65
+9/16/2023,Oltenia,"['Averse cu tunete și fulgere', 'Cantități mari de apă', 'Inundație']",DJ,,1006.033333,19.93,86.33333333
+9/17/2023,Oltenia,['Ploi'],DJ,,1006.7,20.83666667,83.33333333
+9/18/2023,Oltenia,"['Caniculă', 'Secetă']",DJ,,1005.966667,21.53666667,65
+9/19/2023,Oltenia,"['Caniculă', 'Averse abundente', 'Ploi locale']",DJ,,1003.266667,18.98666667,73
+9/20/2023,Oltenia,['Averse'],DJ,,1002.233333,21.25666667,72.33333333
+9/21/2023,Oltenia,"['Furtună', 'Ploi slabe', 'Averse']",DJ,,1001.133333,19.79,81.66666667
+9/22/2023,Oltenia,['Caniculă'],DJ,,999.6333333,22.04333333,78
+9/23/2023,Oltenia,"['Caniculă', 'Averse']",DJ,,999.4,24.15333333,70.33333333
+9/24/2023,Oltenia,"['Ploi torențiale', 'Fenomene electrice', 'Vânt puternic', 'Inundație', 'Vijelie', 'Grindină', 'Furtună', 'Fulger']",DJ,,999.5,22.45666667,80.33333333
+9/25/2023,Oltenia,"['Vijelie', 'Grindină', 'Inundație']",DJ,,1005,22.26666667,69
+9/26/2023,Oltenia,"['Caniculă', 'Vânt puternic']",DJ,,1006.733333,21.85333333,56
+9/27/2023,Oltenia,['Vânt puternic'],DJ,,1007,20.02666667,59.33333333
+9/30/2023,Oltenia,['Caniculă'],DJ,,1004.933333,19.81,63.33333333
+10/1/2023,Oltenia,"['Caniculă', 'Brumă']",DJ,,1004.466667,19.59333333,65.33333333
+10/2/2023,Oltenia,"['Furtună', 'Fulger', 'Ploaie']",DJ,,1008.166667,18.78333333,60.66666667
+10/5/2023,Oltenia,"['Furtună', 'Ploaie']",DJ,,1008.733333,18.90333333,69.33333333
+10/6/2023,Oltenia,['Ceață'],DJ,,1008.233333,17.36666667,70
+10/8/2023,Oltenia,"['Ploi', 'Vant puternic']",DJ,,1001.366667,19.27333333,58
+10/9/2023,Oltenia,"['Ploaie', 'Vânt puternic']",DJ,,1007.866667,14.04333333,59
+10/13/2023,Oltenia,['Caniculă'],DJ,43.27,1005.4,15.26666667,76.33333333
+10/14/2023,Oltenia,['Caniculă'],DJ,43.45,1001.766667,16.91,73
+10/15/2023,Oltenia,"['Ploaie', 'Vânt puternic']",DJ,17.91,995.1333333,16.82,75
+10/16/2023,Oltenia,['Ploaie'],DJ,17.36,1003.633333,12.91333333,55
+10/17/2023,Oltenia,"['Temperaturi sub normale', 'Vant activ']",DJ,24.45,1006.566667,8.786666667,68.66666667
+10/18/2023,Oltenia,['Caniculă'],DJ,44.36,1004.2,10.69666667,68
+10/19/2023,Oltenia,"['Soare', 'Temperaturi ridicate']",DJ,30.91,998.3,12.05333333,70
+10/20/2023,Oltenia,"['Vreme frumoasă', 'Vant activ', 'Caniculă']",DJ,45.9,992.9333333,14.50666667,74
+10/21/2023,Oltenia,['Ploaie'],DJ,44.72,995.3,17.63,71
+10/22/2023,Oltenia,['Ploaie'],DJ,44.36,998.1333333,20.18,62.66666667
+10/24/2023,Oltenia,['Ploi'],DJ,25.63,1000.366667,16.23,72.66666667
+10/25/2023,Oltenia,"['Ploaie', 'Furtună']",DJ,26,992.4666667,18.02666667,70
+10/26/2023,Oltenia,['Caniculă'],DJ,32.09,989.5333333,18.65333333,69
+10/27/2023,Oltenia,"['Vânt puternic', 'Ploi']",DJ,28.27,986.8666667,16.57333333,77.33333333
+10/28/2023,Oltenia,['Ploaie'],DJ,13.82,993.1666667,16.25666667,81.33333333
+10/29/2023,Oltenia,"['Vreme frumoasă', 'Temperaturi ridicate']",DJ,22.36,1001.8,14.58,83.33333333
+10/30/2023,Oltenia,['Caniculă'],DJ,32.91,1003.8,14.05333333,82
+10/31/2023,Oltenia,['Ploaie'],DJ,32.63,997.9666667,14.04666667,80.33333333
+11/1/2023,Oltenia,['Ploi'],DJ,16.82,998.8666667,14.34333333,74.33333333
+11/2/2023,Oltenia,['Ploaie'],DJ,21.45,996.3333333,11.85666667,76
+11/3/2023,Oltenia,['Ploaie'],DJ,23.09,987.8,13.32333333,90.33333333
+11/4/2023,Oltenia,"['Ploaie', 'Descărcări electrice', 'Vânt puternic']",DJ,19.63,984.6,13.47666667,96.33333333
+11/5/2023,Oltenia,"['Ploaie', 'Vant puternic']",DJ,11.64,987.1666667,12.5,85.33333333
+11/6/2023,Oltenia,"['Vreme caldă', 'Vânt puternic']",DJ,17.54,996.9666667,13.76,82.66666667
+11/7/2023,Oltenia,['Ploaie'],DJ,30.63,1004.566667,11.88666667,86.66666667
+11/8/2023,Oltenia,['Ploaie'],DJ,18,1001.633333,11.56333333,89.33333333
+11/9/2023,Oltenia,['Ger'],DJ,26.36,1006.166667,8.903333333,71.66666667
+11/10/2023,Oltenia,"['Vant intens', 'Ploi']",DJ,25.54,1000.733333,7.266666667,84.66666667
+11/11/2023,Oltenia,"['Ploaie', 'Vânt puternic', 'Vant puternic']",DJ,17.91,989.4333333,9.596666667,94.66666667
+11/13/2023,Oltenia,['Innorari'],DJ,32,1001.5,6.423333333,81
+11/14/2023,Oltenia,['Ploaie'],DJ,23.45,998.7333333,11.24,75
+11/17/2023,Oltenia,"['Ploi', 'Vânt puternic']",DJ,33.72,996.8333333,6.686666667,91
+11/18/2023,Oltenia,"['Ploi', 'Vant puternic']",DJ,17.09,995.5333333,6.566666667,73.66666667
+11/19/2023,Oltenia,['Vant puternic'],DJ,16.09,1000.833333,5.553333333,69
+11/20/2023,Oltenia,"['Vreme frumoasă', 'Înnorări', 'Ploaie ușoară', 'Vânt puternic']",DJ,30.36,998.0666667,9.133333333,65
+11/21/2023,Oltenia,"['Ploaie', 'Vânt activ']",DJ,48.27,996.7333333,8.106666667,83.66666667
+11/22/2023,Oltenia,"['Ploi', 'Vânt activ']",DJ,19.63,1000.233333,8.863333333,99
+11/23/2023,Oltenia,"['Furtună', 'Fulger']",DJ,18.63,1006.766667,6.54,91.33333333
+11/24/2023,Oltenia,['Ploaie'],DJ,30.36,988.5333333,7.49,88.33333333
+11/25/2023,Oltenia,"['Ploi', 'Lapovita', 'Ninsori', 'Viscol', 'Polei']",DJ,9.54,980.2333333,4.436666667,97.66666667
+11/26/2023,Oltenia,"['Viscol', 'Precipitații']",DJ,8.27,985.6666667,2.96,74.33333333
+11/27/2023,Oltenia,"['Ploi', 'Lapoviță']",DJ,13,997.5666667,3.586666667,60.33333333
+11/28/2023,Oltenia,"['Ploi', 'Vânt puternic']",DJ,22.36,985.8333333,2.803333333,88
+11/29/2023,Oltenia,"['Vreme frumoasă', 'Vânt activ']",DJ,13.45,991.2,3.823333333,79.33333333
+11/30/2023,Oltenia,"['Vreme frumoasă', 'Vant domol']",DJ,45.54,1000.133333,0.776666667,83
+12/1/2023,Oltenia,"['Caniculă', 'Furtună', 'Vijelie', 'Fulger']",DJ,79.99,993.9333333,3.426666667,83.33333333
+12/3/2023,Oltenia,"['Ploaie', 'Vânt puternic']",DJ,,999.3333333,4.873333333,76.33333333
+12/4/2023,Oltenia,['Ger'],DJ,,1010.066667,1.25,75.33333333
+12/5/2023,Oltenia,['Ninsori'],DJ,32.36,1005.833333,1.41,80.33333333
+12/6/2023,Oltenia,"['Ceata', 'Ploi', 'Lapoviță', 'Ploaie']",DJ,39.36,999.9666667,2.87,95.33333333
+12/7/2023,Oltenia,"['Ninsoare', 'Lapoviță', 'Ploaie']",DJ,20.82,1002.5,3.56,97.33333333
+12/8/2023,Oltenia,['Ceață'],DJ,30,1004.3,3.226666667,91
+12/9/2023,Oltenia,"['Cer acoperit', 'Ceata', 'Precipitatii slabe', 'Polei']",DJ,36.09,1005.266667,2.736666667,89.33333333
+12/10/2023,Oltenia,"['Burniță', 'Precipitații mixte']",DJ,33.81,1002.366667,2.293333333,86
+12/11/2023,Oltenia,"['Burnită', 'Polei']",DJ,26.91,1001.033333,3.25,90
+12/12/2023,Oltenia,"['Înnorări', 'Ploi slabe', 'Ceață']",DJ,48.36,999.1666667,4.633333333,90.66666667
+12/13/2023,Oltenia,"['Ceață', 'Burniță', 'Polei', 'Ploi']",DJ,68.27,994.1,4.78,94.33333333
+12/14/2023,Oltenia,"['Ploaie', 'Vânt activ']",DJ,36.45,992.6666667,6.693333333,94.66666667
+12/15/2023,Oltenia,['Caniculă'],DJ,29.18,1007.2,6.01,91
+12/16/2023,Oltenia,"['Precipitatii slabe', 'Vant activ']",DJ,24.54,1020.6,3.186666667,92.66666667
+12/17/2023,Oltenia,['Ceată'],DJ,40.18,1023,2.226666667,85.66666667
+12/18/2023,Oltenia,"['Ceata', 'Ghețuș', 'Ceață', 'Ploaie', 'Ninsoare']",DJ,75.54,1016.133333,4.66,76
+12/19/2023,Oltenia,['Ceata'],DJ,85.36,1009.533333,6.086666667,73.66666667
+12/21/2023,Oltenia,['Vant puternic'],DJ,105.63,992.2,5.123333333,74.66666667
+12/22/2023,Oltenia,"['Vant puternic', 'Ploi', 'Lapovita', 'Ninsori']",DJ,36.45,982.8666667,4.976666667,72.33333333
+12/23/2023,Oltenia,['Ploaie'],DJ,43.09,986.9,5.443333333,68.33333333
+12/25/2023,Oltenia,['Vijelie'],DJ,20.27,995,11.875,60.5
+12/26/2023,Oltenia,['Caniculă'],DJ,37,998.35,10.805,70
+12/28/2023,Oltenia,['Ceață'],DJ,49.45,1010.2,4.963333333,73.33333333
+12/29/2023,Oltenia,['Ceață'],DJ,58.36,1005.4,6.553333333,72.33333333
+12/30/2023,Oltenia,['Ceață'],DJ,47.9,1003.6,7.963333333,71.33333333
+12/31/2023,Oltenia,['Vreme frumoasă'],DJ,48.72,1004.1,6.33,78.66666667
+1/2/2024,Oltenia,"['Ceata', 'Inseninari', 'Atmosfera de primavara']",DJ,45,998.9666667,7.873333333,63.66666667
+1/3/2024,Oltenia,"['Ceață', 'Ploaie']",DJ,48.09,994.2333333,6.036666667,78.66666667
+1/4/2024,Oltenia,"['Ceata', 'Ploaie']",DJ,36.09,991.4333333,7.88,84.66666667
+1/5/2024,Oltenia,['Căldură'],DJ,35.81,998.4333333,8.82,76.66666667
+1/6/2024,Oltenia,"['Caniculă', 'Furtună', 'Inundație']",DJ,40.54,995,5.693333333,82.66666667
+1/7/2024,Oltenia,"['Ploi abundente', 'Ploi', 'Ninsori', 'Polei', 'Vânt puternic']",DJ,50.81,984.3666667,6.366666667,93
+1/8/2024,Oltenia,"['Ploaie', 'Lapoviță', 'Ninsori', 'Ger', 'Viscol']",DJ,11.27,995.1,2.79,95.66666667
+1/9/2024,Oltenia,"['Ninsori', 'Fulgi de zapadă']",DJ,22.64,1013.766667,-4.17,86.66666667
+1/10/2024,Oltenia,['Ger'],DJ,48.45,1017.833333,-4.703333333,83
+1/12/2024,Oltenia,['Ninsori slabe'],DJ,44.27,1004.7,-0.88,70
+1/13/2024,Oltenia,['Ninsori'],DJ,43.09,1005.533333,-1.613333333,73.66666667
+1/14/2024,Oltenia,['Fulger'],DJ,38.81,997.1666667,0.6,65.66666667
+1/15/2024,Oltenia,['Ninsori'],DJ,68.45,990.6,0.553333333,79
+1/16/2024,Oltenia,"['Ger', 'Vijelie']",DJ,32.54,995.8333333,2.356666667,74.33333333
+1/17/2024,Oltenia,"['Inundație', 'Ploaie']",DJ,47.36,1000.566667,-0.55,79.66666667
+1/18/2024,Oltenia,"['Ploaie', 'Vânt puternic']",DJ,75.99,990.5333333,2.143333333,88
+1/19/2024,Oltenia,"['Secetă', 'Ploi', 'Vant activ', 'Furtună', 'Ceață', 'Viscol', 'Ninsoare']",DJ,45.99,991.6333333,4.236666667,87
+1/21/2024,Oltenia,['Vant'],DJ,31.18,1018.6,-1.22,88.33333333
+1/22/2024,Oltenia,['Ceata'],DJ,34,1021.366667,-2.57,91.66666667
+1/23/2024,Oltenia,"['Ceată', 'Innorări', 'Vânt puternic']",DJ,43.63,1012.9,-1.966666667,88.33333333
+1/24/2024,Oltenia,"['Innorări', 'Ceață', 'Vânt puternic']",DJ,34.36,1011.8,-0.686666667,89.66666667
+1/25/2024,Oltenia,"['Vant intens', 'Intensificari ale vantului']",DJ,44.45,1003.133333,6.636666667,64.33333333
+1/26/2024,Oltenia,"['Vant puternic', 'Viscol']",DJ,19.09,1005.833333,6.45,60.66666667
+1/27/2024,Oltenia,"['Vijelie', 'Vant puternic']",DJ,28.36,1007.3,5.466666667,66
+1/28/2024,Oltenia,"['Ninsori', 'Lapoviță', 'Ninsoare', 'Scădere temperaturi']",DJ,34.27,1016.4,3.81,67.66666667
+1/29/2024,Oltenia,"['Fulger', 'Lapoviță', 'Caniculă']",DJ,31.63,1023.466667,2.456666667,75
+1/30/2024,Oltenia,['Ger'],DJ,44.45,1025.533333,1.87,73.33333333
+1/31/2024,Oltenia,['Ger'],DJ,61.27,1019.5,0.493333333,71.33333333
+2/2/2024,Oltenia,"['Ploaie', 'Vant activ']",DJ,54.27,1009.266667,5.356666667,70.33333333
+2/3/2024,Oltenia,"['Vant puternic', 'Caniculă']",DJ,48.54,1006.666667,5.806666667,68.66666667
+2/4/2024,Oltenia,"['Vânt puternic', 'Caniculă', 'Vijelie']",DJ,64.36,1003.6,9.046666667,67
+2/5/2024,Oltenia,"['Caniculă', 'Vânt puternic', 'Vânt puternic']",DJ,8.27,999.9,13.14,53.33333333
+2/6/2024,Oltenia,['Vant puternic'],DJ,22,1001.1,14.57,43
+2/7/2024,Oltenia,['Vreme foarte caldă'],DJ,22.09,996.7,12.33333333,53.66666667
+2/8/2024,Oltenia,['Vreme caldă'],DJ,37.9,994,12.02333333,56
+2/9/2024,Oltenia,['Vreme placută'],DJ,60.36,992.3333333,10.44666667,61.66666667
+2/10/2024,Oltenia,"['Temperaturi ridicate', 'Ploaie trecatoare', 'Lapovita', 'Ninsoare', 'Vijelie']",DJ,65.99,990.8333333,11.00666667,60.33333333
+2/11/2024,Oltenia,"['Ploaie', 'Vânt puternic']",DJ,48.63,987.8,13.64,55
+2/12/2024,Oltenia,"['Furtună', 'Averse consistente', 'Descărcări electrice']",DJ,35.81,987.5333333,10.33666667,86
+2/13/2024,Oltenia,"['Ploaie', 'Vânt puternic']",DJ,21.82,992.7333333,8.753333333,83
+2/14/2024,Oltenia,"['Furtună', 'Viscol']",DJ,22.63,1002.366667,8.676666667,64.66666667
+2/15/2024,Oltenia,['Caniculă'],DJ,37.18,1007.433333,6.243333333,65
+2/18/2024,Oltenia,['Ploaie'],DJ,49.45,1012.8,5.88,80.66666667
+2/19/2024,Oltenia,"['Ceată', 'Cer acoperit', 'Ploaie slabă']",DJ,36,1011.4,6.386666667,77
+2/20/2024,Oltenia,"['Ceață', 'Soare', 'Innorări', 'Ploi slabe']",DJ,58.08,1008.433333,6.023333333,79
+2/21/2024,Oltenia,['Ploaie'],DJ,59.63,1007.5,7.5,75
+2/22/2024,Oltenia,['Ceață'],DJ,38.18,1003,6.25,72.33333333
+2/23/2024,Oltenia,"['Secetă', 'Caniculă']",DJ,48.08,997,8.663333333,65.33333333
+2/24/2024,Oltenia,"['Ploi', 'Averse']",DJ,59.36,1000.15,11.265,61.5
+2/25/2024,Oltenia,['Ploaie'],DJ,31.63,1000.6,12.825,71.5
+2/26/2024,Oltenia,['Ploaie'],DJ,34.18,998.75,10.52,83.5
+2/27/2024,Oltenia,['Caniculă'],DJ,25.09,1005,9.315,74
+2/28/2024,Oltenia,"['Vreme schimbătoare', 'Burniță']",DJ,30.09,1008.1,9.645,70.5
+2/29/2024,Oltenia,"['Furtună', 'Vijelie']",DJ,49.72,1007.45,7.615,81.5
+3/1/2024,Oltenia,"['Ploi slabe', 'Vant activ', 'Ploaie', 'Vant insistent']",DJ,32.18,1001.9,8.05,90.5
+3/2/2024,Oltenia,['Ploaie'],DJ,25.36,1000.15,8.075,90
+3/3/2024,Oltenia,"['Ploaie', 'Vant']",DJ,49,1000.75,8.975,79.5
+3/4/2024,Oltenia,['Ploaie'],DJ,39.81,999.25,9.395,74.5
+3/6/2024,Oltenia,"['Ploaie', 'Vânt puternic', 'Ploi moderate']",DJ,44.45,1001.7,8.236666667,80.66666667
+3/7/2024,Oltenia,"['Ploi', 'Vânt']",DJ,26.63,1003.1,5.62,88
+3/8/2024,Oltenia,['Ploi'],DJ,39.63,1006.666667,4.87,84.66666667
+3/9/2024,Oltenia,"['Ploaie', 'Ceata', 'Ghetuș']",DJ,47.09,1004.9,4.913333333,84.33333333
+3/10/2024,Oltenia,"['Furtună', 'Vijelie', 'Ploaie']",DJ,51.87,1001.933333,9.026666667,77.66666667
+3/11/2024,Oltenia,"['Ploaie', 'Vânt puternic', 'Vânt puternic', 'Ploaie']",DJ,36,998.2333333,10.12,78.66666667
+3/12/2024,Oltenia,['Ploaie'],DJ,32.82,994.9,9.99,86
+3/13/2024,Oltenia,"['Ceata', 'Ploi']",DJ,17.54,995,10.67666667,74
+3/14/2024,Oltenia,['Vânt puternic'],DJ,14.45,999.8,8.586666667,86
+3/15/2024,Oltenia,['Ploaie'],DJ,28,1002.433333,8.196666667,85
+3/16/2024,Oltenia,"['Soare', 'Timp frumos', 'Ploaie slabă']",DJ,46.18,1004.933333,9.41,77.33333333
+3/17/2024,Oltenia,"['Ploaie slabă', 'Soare', 'Timp frumos']",DJ,37.9,1004.133333,10.04666667,71.66666667
+3/18/2024,Oltenia,['Viscol'],DJ,31.18,999.0666667,10.37,52.33333333
+3/19/2024,Oltenia,"['Ploaie', 'Ninsori', 'Lapoviță', 'Vânt activ', 'Ploaie']",DJ,34.72,1000.1,7.37,62.33333333
+3/20/2024,Oltenia,['Ploi'],DJ,29.18,1005.266667,7.803333333,58.66666667
+3/21/2024,Oltenia,"['Înnorat', 'Furtună']",DJ,31.45,1003.633333,10.25,52.66666667
+3/22/2024,Oltenia,['Vreme buna'],DJ,23.45,1004.566667,9.04,64.33333333
+3/24/2024,Oltenia,"['Ploi', 'Vânt', 'Vânt puternic', 'Vânt puternic']",DJ,29.91,990.3333333,10.80666667,66
+3/25/2024,Oltenia,"['Ploi', 'Vânt puternic', 'Frig']",DJ,12.14,991.2333333,9.05,63.33333333
+3/26/2024,Oltenia,['Ploaie'],DJ,14.73,996.3333333,9.676666667,56
+3/27/2024,Oltenia,"['Ploi slabe', 'Vânt insistent']",DJ,14.63,993.1666667,11.56333333,71.33333333
+3/28/2024,Oltenia,"['Furtună', 'Ploi']",DJ,21,991.4333333,15.38666667,60.66666667
+3/29/2024,Oltenia,"['Secetă', 'Vreme frumoasă']",DJ,14.36,999.5333333,18.48333333,44.66666667
+3/31/2024,Oltenia,['Caniculă'],DJ,43.45,998.8,18.73333333,57.66666667
+4/1/2024,Oltenia,"['Caniculă', 'Furtună', 'Inundație', 'Vijelie', 'Ploaie', 'Vijelie']",DJ,,996.8,20.31333333,50.66666667
+4/2/2024,Oltenia,"['Ploaie', 'Vânt insistent']",DJ,,993.9666667,16.66,50
+4/5/2024,Oltenia,['Ploaie'],DJ,,1004.466667,16.23,54.33333333
+8/16/2023,Banat,"['Ploaie', 'Furtună', 'Grindină']",TM,12.1975,1003.7,21.8675,86.5
+8/17/2023,Banat,"['Averse', 'Grindină', 'Fulger']",TM,12.0375,1002.725,22.24,85.5
+8/19/2023,Banat,"['Furtună', 'Grindină']",TM,11.29,1002.633333,25.57,71.66666667
+8/21/2023,Banat,"['Caniculă', 'Disconfort termic']",TM,13.1975,1004.4,26.44,68
+8/22/2023,Banat,"['Caniculă', 'Caniculă', 'Averse']",TM,13.06,1003.766667,26.83333333,65.33333333
+8/23/2023,Banat,"['Caniculă', 'Ploi torențiale', 'Vijelie', 'Vijelie', 'Furtună', 'Fulger', 'Averse torențiale', 'Grindină']",TM,11.2,1001.8,26.34333333,71
+8/24/2023,Banat,['Averse torențiale'],TM,11.5625,1001.166667,25.37666667,72.33333333
+8/26/2023,Banat,['Caniculă'],TM,19.305,998.7666667,26.44666667,61.33333333
+8/28/2023,Banat,"['Caniculă', 'Averse', 'Caniculă', 'Furtună', 'Grindină', 'Vijelie', 'Inundație']",TM,17.15,991.7666667,27.67333333,54
+8/29/2023,Banat,"['Furtună', 'Vijelie', 'Grindină', 'Inundație', 'Ploi torențiale', 'Furtună', 'Grindină', 'Vijelie', 'Vijelie', 'Grindină', 'Fulger', 'Inundație']",TM,15.65,989.3666667,21.60666667,76.33333333
+8/30/2023,Banat,"['Furtună', 'Grindină', 'Fulger', 'Rafale puternice de vânt', 'Instabilitate atmosferică']",TM,19.71666667,991.5,18.17333333,90.33333333
+8/31/2023,Banat,"['Furtună', 'Grindină', 'Fulger']",TM,16.80666667,998.0666667,18.62666667,83.66666667
+9/2/2023,Banat,['Caniculă'],TM,15.92,1006.1,20.63666667,63.33333333
+9/3/2023,Banat,"['Vijelie', 'Grindină']",TM,13.265,1006.033333,18.73,79
+9/4/2023,Banat,['Grindină'],TM,13.3775,1005.3,17.06666667,80
+9/10/2023,Banat,"['Furtună', 'Fulger']",TM,16.85,1004.666667,21.34,62
+9/11/2023,Banat,['Caniculă'],TM,13.1525,1002.833333,21.71333333,62.33333333
+9/12/2023,Banat,['Caniculă'],TM,13.4475,1000.966667,22.19666667,62.33333333
+9/14/2023,Banat,"['Ploaie', 'Fulger', 'Grindină', 'Vânt puternic']",TM,13.3325,1001.1,20.98,73.66666667
+9/15/2023,Banat,"['Ploi', 'Furtună', 'Trăsnet', 'Grindină', 'Secetă']",TM,13.8775,1004.433333,17.43333333,90
+9/16/2023,Banat,"['Averse abundente', 'Fenomene electrice']",TM,12.9025,1005.233333,18.95,80.66666667
+9/17/2023,Banat,['Averse'],TM,13.5625,1005.7,19.96333333,76.66666667
+9/18/2023,Banat,['Vijelie'],TM,14.33,1004.033333,20.46666667,68
+9/19/2023,Banat,"['Caniculă', 'Vânt puternic', 'Averse abundente']",TM,13.765,1000.433333,20.38666667,69.33333333
+9/21/2023,Banat,"['Furtună', 'Vijelie', 'Averse', 'Vant intens']",TM,14.4225,999.1666667,19.41,75
+9/23/2023,Banat,"['Averse', 'Descărcări electrice', 'Vijelie', 'Furtună', 'Grindină', 'Fulger']",TM,13.675,998.3,22.75333333,68
+9/24/2023,Banat,"['Scădere temperaturi', 'Ploi torențiale', 'Cantități însemnate de apă', 'Vânt puternic', 'Grindină', 'Inundație']",TM,11.72,1001.5,17.85,93
+9/26/2023,Banat,['Ploaie'],TM,15.06,1007.633333,20.88666667,66
+10/1/2023,Banat,['Brumă'],TM,15.4925,1007.366667,17.05333333,71.33333333
+10/4/2023,Banat,['Ploaie'],TM,17.4,1008.333333,16.78,66
+10/6/2023,Banat,['Ploaie'],TM,17.6925,1010.666667,13.64333333,69
+10/8/2023,Banat,"['Ploi', 'Vant puternic']",TM,18.215,1004.066667,14.88666667,65
+10/9/2023,Banat,"['Ploaie', 'Vânt puternic', 'Ninsori']",TM,18.855,1008.233333,10.78,60.66666667
+10/13/2023,Banat,['Ploaie'],TM,20.1925,1005.466667,16.24333333,72
+10/14/2023,Banat,['Furtună'],TM,19.08,1000.166667,17.32666667,69.33333333
+10/15/2023,Banat,"['Ploaie', 'Racire brusca a vremii']",TM,21.625,997.5666667,12.61333333,87.66666667
+10/16/2023,Banat,['Ploaie'],TM,19.33,1006.533333,7.82,79.66666667
+10/17/2023,Banat,"['Temperaturi sub normale', 'Vant activ']",TM,19.83666667,1006.566667,6.746666667,75.66666667
+10/18/2023,Banat,['Ceață'],TM,20.1275,1003.433333,8.966666667,68.66666667
+10/19/2023,Banat,"['Ploi', 'Vant intensificat']",TM,19.4425,994.8,12.43,70
+10/20/2023,Banat,"['Vant puternic', 'Ploaie']",TM,19.6225,987.2666667,19.98,53.33333333
+10/21/2023,Banat,"['Ploaie', 'Vânt puternic']",TM,19.35,991.2333333,21.95333333,44.66666667
+10/22/2023,Banat,"['Ploaie', 'Racire brusca']",TM,20.8175,997.1333333,19.39666667,59.33333333
+10/25/2023,Banat,"['Furtună', 'Ciclon', 'Uragan', 'Tornadă', 'Vijelie', 'Grindină', 'Viscol', 'Avalanșă', 'Inundație', 'Ploaie', 'Furtună', 'Vânt puternic']",TM,20.2825,990.9333333,17.02,72.33333333
+10/26/2023,Banat,"['Ploi', 'Vânt']",TM,21.0825,988.7,14.17333333,93.66666667
+10/27/2023,Banat,"['Ploi', 'Vânt puternic', 'Vijelie']",TM,20.15,984.5,14.57,89.66666667
+10/28/2023,Banat,['Ploaie'],TM,21.2375,993.3,13.30333333,85
+10/29/2023,Banat,"['Vreme frumoasă', 'Vânt domol']",TM,20.51,1000.433333,14.01,75.33333333
+10/31/2023,Banat,"['Ploaie', 'Descărcări electrice']",TM,22.2125,994.0333333,16.15,61.66666667
+11/2/2023,Banat,['Furtună'],TM,21.334,993,11.25333333,73.33333333
+11/3/2023,Banat,['Vânt puternic'],TM,22.332,982.2666667,13.17333333,76.33333333
+11/5/2023,Banat,"['Ploaie', 'Vant puternic']",TM,22.114,982.9666667,10.14333333,89
+11/6/2023,Banat,['Ploaie'],TM,20.244,996.7666667,11.55333333,83.66666667
+11/7/2023,Banat,['Ploaie'],TM,20.044,1002.666667,11.47333333,83.66666667
+11/10/2023,Banat,"['Vant intens', 'Ploi']",TM,18.08,996.2333333,7.57,73.66666667
+11/11/2023,Banat,"['Ploaie', 'Vânt puternic']",TM,18.0825,987.8333333,8.166666667,96
+11/12/2023,Banat,['Ploi'],TM,18.875,997.0666667,5.46,78.33333333
+11/13/2023,Banat,['Ploaie'],TM,19.605,1000.6,5.71,83.66666667
+11/14/2023,Banat,"['Ploaie', 'Ninsoare', 'Vânt puternic']",TM,16.046,998.4,10.21,85.66666667
+11/17/2023,Banat,"['Ninsori', 'Viscol', 'Viscol', 'Ninsori']",TM,16.118,994.1,6.66,89
+11/18/2023,Banat,"['Ploi', 'Ninsori', 'Vant puternic']",TM,17.662,1001.433333,3.43,91
+11/19/2023,Banat,['Ninsoare'],TM,19.024,1004.666667,2.476666667,88.66666667
+11/20/2023,Banat,"['Ploaie', 'Înnorări', 'Ploaie ușoară', 'Vânt puternic']",TM,18.9,999.7,6.296666667,89.66666667
+11/21/2023,Banat,"['Ploaie', 'Vânt activ', 'Ninsoare', 'Lapoviță']",TM,21.644,996.5333333,6.846666667,91.33333333
+11/22/2023,Banat,"['Ploi', 'Vânt activ']",TM,24.28,1001.1,5.633333333,94.66666667
+11/23/2023,Banat,"['Furtună', 'Fulger']",TM,26.004,1008.1,0.216666667,91.66666667
+11/27/2023,Banat,"['Ninsoare', 'Polei']",TM,21.0575,997.4333333,-0.126666667,86.33333333
+11/28/2023,Banat,"['Ploi', 'Lapoviță', 'Polei', 'Vânt puternic', 'Intensificari ale vantului']",TM,22.8075,981.6,3.77,88.66666667
+11/30/2023,Banat,"['Ploi', 'Ninsoare', 'Vant puternic', 'Inundație', 'Furtună', 'Vânt puternic']",TM,21.99,995.4666667,1.103333333,84.66666667
+12/1/2023,Banat,"['Furtună', 'Vijelie', 'Fulger', 'Ninsori']",TM,21.3525,987.1666667,11.48666667,75
+12/2/2023,Banat,['Vijelie'],TM,21.6925,984.9333333,13.88333333,61.33333333
+12/3/2023,Banat,"['Ninsoare', 'Vânt puternic']",TM,21.33,1005.2,0.385,79.5
+12/5/2023,Banat,"['Cer noros', 'Vant insistent']",TM,22.145,1001.5,1.286666667,75.66666667
+12/6/2023,Banat,['Ploaie'],TM,22.7375,997.5333333,1.62,84.33333333
+12/8/2023,Banat,"['Ploi izolate', 'Lapoviță']",TM,24.4875,1004.933333,0.246666667,94
+12/9/2023,Banat,"['Cer acoperit', 'Ceata', 'Precipitatii slabe', 'Polei']",TM,24.4675,1004.733333,-0.78,95
+12/10/2023,Banat,"['Ploaie slabă', 'Ninsoare']",TM,20.92,1000.333333,1.016666667,94
+12/11/2023,Banat,['Ploaie'],TM,19.15,1000.1,2.656666667,93
+12/12/2023,Banat,"['Înnorări', 'Ploi slabe', 'Ceață', 'Ploi moderate cantitativ']",TM,19.35333333,998.6,5.523333333,94.66666667
+12/13/2023,Banat,"['Ploi', 'Vânt', 'Ploi moderate']",TM,21.62666667,988.6,7.87,89
+12/14/2023,Banat,['Inundație'],TM,23.6025,993.3,6.206666667,97
+12/16/2023,Banat,"['Nori', 'Ploaie', 'Lapovita']",TM,23.096,1021.533333,0.163333333,85.66666667
+12/17/2023,Banat,"['Ceată', 'Polei']",TM,24.934,1025.633333,-1.273333333,95.66666667
+12/18/2023,Banat,"['Ceata', 'Vânt puternic', 'Ceață', 'Ninsoare']",TM,27.64,1020.4,-0.08,92
+12/21/2023,Banat,"['Viscol', 'Ninsori slabe viscolite']",TM,23.675,994.5333333,0.56,92.33333333
+12/22/2023,Banat,['Ninsori viscolite'],TM,24.58,982.8333333,4.126666667,78.66666667
+12/23/2023,Banat,"['Ninsoare', 'Vânt puternic']",TM,24.3525,988.1666667,1.063333333,91.66666667
+12/24/2023,Banat,"['Ploaie', 'Lapoviță', 'Vânt']",TM,22.19,996.5,3.86,95
+12/26/2023,Banat,"['Furtună', 'Secetă']",TM,24.625,1002.333333,5.81,90.33333333
+12/27/2023,Banat,['Ceata'],TM,23.95,1010.166667,4.4,87.66666667
+12/28/2023,Banat,['Vânt activ'],TM,22.555,1009.6,3.646666667,86.33333333
+12/29/2023,Banat,['Ceață'],TM,28.04666667,1006.9,3.553333333,91
+12/30/2023,Banat,['Ploaie'],TM,35.17,1005.133333,3.806666667,94
+12/31/2023,Banat,['Ceata'],TM,36.35,1003.3,3.483333333,90
+1/2/2024,Banat,"['Innorari', 'Ploi slabe', 'Vant activ']",TM,23.265,999.6666667,2.696666667,91.66666667
+1/3/2024,Banat,"['Ploi', 'Ninsoare', 'Vânt puternic']",TM,29.26,992.5666667,6.423333333,91
+1/5/2024,Banat,['Vânt puternic'],TM,24.44333333,997.5,5.383333333,88.66666667
+1/6/2024,Banat,"['Furtună', 'Viscol']",TM,27.74666667,990.9333333,9.326666667,67.66666667
+1/7/2024,Banat,"['Ploi', 'Lapoviță']",TM,24.86666667,984.4,6.913333333,83
+1/8/2024,Banat,"['Ninsori', 'Polei', 'Ger', 'Viscol']",TM,24.99,996.9666667,-2.153333333,94
+1/10/2024,Banat,['Ger'],TM,30.01,1017.833333,-6.156666667,95.66666667
+1/12/2024,Banat,"['Frig', 'Cer acoperit']",TM,38.8475,1009,-4.943333333,95.66666667
+1/13/2024,Banat,['Ninsori'],TM,36.12,1006.833333,-3.123333333,92.33333333
+1/15/2024,Banat,"['Ploaie', 'Ninsori']",TM,25.59,989.0333333,0.606666667,89.33333333
+1/16/2024,Banat,"['Ger', 'Ninsoare', 'Vijelie']",TM,25.44333333,997.0333333,-0.193333333,88
+1/17/2024,Banat,"['Furtună', 'Viscol']",TM,25.59333333,994.4333333,1.293333333,78
+1/18/2024,Banat,"['Ploaie', 'Vânt puternic', 'Lapoviță', 'Ninsoare', 'Furtună', 'Vijelie', 'Vijelie']",TM,23.31,983.8,8.243333333,88.33333333
+1/19/2024,Banat,"['Ploi', 'Vant intensificat', 'Ninsoare', 'Viscol']",TM,22.99,993.1,3.196666667,97
+1/21/2024,Banat,['Vant'],TM,33.445,1019.733333,-3.516666667,93
+1/22/2024,Banat,['Vant puternic'],TM,23.58,1017.733333,-2.526666667,88.66666667
+1/23/2024,Banat,"['Ninsori', 'Lapoviță', 'Polei', 'Vânt puternic']",TM,23.585,1011.866667,-1.326666667,86
+1/24/2024,Banat,"['Ploi', 'Lapoviță', 'Polei', 'Viscol', 'Cod portocaliu']",TM,22.125,1012.166667,0.706666667,93.66666667
+1/25/2024,Banat,"['Ploi', 'Intensificari ale vantului']",TM,27.67,1005.5,4.683333333,77
+1/26/2024,Banat,"['Ploaie', 'Lapoviță']",TM,22.72,1008.3,2.493333333,81.66666667
+1/27/2024,Banat,"['Vijelie', 'Vant puternic']",TM,19.58,1010.266667,3.31,81.66666667
+1/28/2024,Banat,['Vijelie'],TM,21.855,1019.266667,1.536666667,85
+1/31/2024,Banat,['Ger'],TM,21.95,1019.766667,-0.213333333,80
+2/1/2024,Banat,['Ploi'],TM,26.47333333,1012.733333,0.256666667,88.33333333
+2/2/2024,Banat,"['Ploaie slaba', 'Vant intensificat', 'Inundație']",TM,24.89666667,1011.566667,2.43,92
+2/3/2024,Banat,['Vant puternic'],TM,29.10666667,1007.833333,3.88,87
+2/4/2024,Banat,"['Ploaie', 'Vânt puternic']",TM,25.56666667,1005.233333,6.983333333,82.33333333
+2/5/2024,Banat,"['Ploaie', 'Vânt puternic']",TM,22.65666667,1002.466667,7.616666667,87.66666667
+2/6/2024,Banat,['Vant puternic'],TM,26.35,1002.1,7.156666667,79.66666667
+2/7/2024,Banat,"['Vreme schimbătoare', 'Ploaie']",TM,24.47333333,997.3,6.786666667,81.66666667
+2/8/2024,Banat,['Ploaie'],TM,23.59666667,992.8666667,8.61,74.66666667
+2/9/2024,Banat,"['Ploi', 'Rafale de vânt']",TM,23.47666667,990.3,9.293333333,68.33333333
+2/10/2024,Banat,"['Innouri', 'Ploi slabe', 'Vant intens', 'Posibila ploaie', 'Vant puternic', 'Vijelie']",TM,23.2775,987.6666667,12.58,57.66666667
+2/11/2024,Banat,"['Ploaie', 'Vânt puternic', 'Vijelie']",TM,25.5375,983,14.25666667,48
+2/12/2024,Banat,"['Ploi', 'Fenomene electrice']",TM,23.785,987.1666667,8.676666667,83
+2/14/2024,Banat,"['Ploaie', 'Viscol']",TM,24.305,1006.833333,3.606666667,69.33333333
+2/17/2024,Banat,['Ploi'],TM,24.01,1011.233333,6.273333333,65.33333333
+2/18/2024,Banat,['Ploaie'],TM,24.945,1014.733333,6.48,76.66666667
+2/19/2024,Banat,['Ploi abundente'],TM,23.17,1010.366667,5.616666667,77
+2/20/2024,Banat,"['Soare', 'Ninsoare', 'Ploaie']",TM,21.14,1008.833333,5.646666667,90.33333333
+2/22/2024,Banat,['Ceață'],TM,23.2825,1000.4,6.056666667,73.33333333
+2/23/2024,Banat,"['Secetă', 'Furtună']",TM,22.5175,993.2666667,10.50666667,54.66666667
+2/24/2024,Banat,"['Ploi', 'Vant puternic', 'Averse']",TM,24.055,995.2666667,11.59333333,66.33333333
+2/26/2024,Banat,['Vânt'],TM,21.965,994.375,13.3,60.25
+2/27/2024,Banat,['Vânt puternic'],TM,21.08,999.075,13.1625,54.75
+2/28/2024,Banat,"['Vreme schimbătoare', 'Vânt puternic']",TM,24.1025,1003.175,12.8325,52.66666667
+2/29/2024,Banat,"['Furtună', 'Vijelie', 'Ploaie']",TM,25.34666667,1002.625,11.7775,60.66666667
+3/1/2024,Banat,['Ploi sporadice'],TM,22.6025,995.8,12.285,64.33333333
+3/2/2024,Banat,['Vânt'],TM,17.4225,996.3,9.5775,72.66666667
+3/3/2024,Banat,"['Ploaie', 'Vant']",TM,18.1275,996.35,9.7625,71
+3/4/2024,Banat,['Ploaie'],TM,20.50666667,994.575,10.85,62.33333333
+3/6/2024,Banat,"['Ploaie', 'Ninsoare', 'Vânt puternic', 'Ploi moderate', 'Grindină', 'Fulger', 'Cod galben']",TM,16.60333333,999.125,9.0475,79.66666667
+3/7/2024,Banat,"['Ploi', 'Lapoviță', 'Vânt', 'Grindină', 'Furtună']",TM,7.513333333,1000.9,6.935,88
+3/8/2024,Banat,['Ploi'],TM,12.60333333,1004.775,6.3175,76.33333333
+3/9/2024,Banat,['Ceață'],TM,13.96333333,1001.725,7.05,68.33333333
+3/10/2024,Banat,"['Vijelie', 'Ploaie', 'Ceată']",TM,12.14666667,996.975,11.0625,64.66666667
+3/11/2024,Banat,"['Vijelie', 'Ploaie', 'Vânt puternic', 'Viscol', 'Vânt puternic', 'Ploaie', 'Ninsori', 'Viscol']",TM,17.765,992.475,13.175,56.33333333
+3/12/2024,Banat,['Ploaie'],TM,10.39,994.025,11.0925,70
+3/14/2024,Banat,['Ploaie'],TM,7.423333333,1001.3,7.7575,85
+3/15/2024,Banat,['Ploaie'],TM,14.93333333,1001.675,9.22,76.33333333
+3/16/2024,Banat,"['Ceață dimineața', 'Soare printre nori', 'Temperaturi ridicate']",TM,15.02333333,1003.225,9.765,71
+3/18/2024,Banat,"['Ploaie', 'Vant activ']",TM,10.48,1000.55,6.9825,61.33333333
+3/19/2024,Banat,"['Soare', 'Fulgi de zăpadă', 'Vânt insistent']",TM,10.81666667,1002.95,3.3825,62.33333333
+3/21/2024,Banat,"['Zi frumoasă', 'Nor sporadic', 'Fără ploi']",TM,21.84,1005,7.6075,62.33333333
+3/22/2024,Banat,"['Ploaie slaba', 'Vant insistent']",TM,23.41666667,1003.3,9.4675,58
+3/23/2024,Banat,['Ploi'],TM,21.95,998.1,9.3075,60
+3/24/2024,Banat,"['Ploi', 'Vânt']",TM,9.495,991.95,8.6,80
+3/26/2024,Banat,"['Ploaie', 'Vânt puternic']",TM,8.72,993,10.685,55.5
+3/27/2024,Banat,"['Vânt puternic', 'Ploi']",TM,21.585,986.7,14.58666667,55.66666667
+3/28/2024,Banat,"['Ploi', 'Vânt puternic', 'Vijelie']",TM,22.54,988.9,15.8,56
+3/29/2024,Banat,['Vreme frumoasă'],TM,11.815,998.9,16.605,56.33333333
+4/1/2024,Banat,"['Vijelie', 'Ploaie', 'Vijelie']",TM,,993.3,21.0725,30.33333333
+4/2/2024,Banat,"['Averse', 'Furtună', 'Vânt puternic', 'Tunete', 'Fulgere']",TM,,994.3,13.815,63
+4/3/2024,Banat,"['Ploi', 'Vânt']",TM,,1000.475,12.685,67.33333333
+4/5/2024,Banat,"['Ploaie', 'Fulger']",TM,,1004.825,14.6625,67.5
+8/14/2023,Dobrogea,"['Caniculă', 'Furtună']",CT,21.858,1015.1,24.12,71.66666667
+8/15/2023,Dobrogea,"['Ploaie slabă', 'Vânt puternic', 'Vijelie']",CT,26.91,1013.075,25.275,71.66666667
+8/16/2023,Dobrogea,"['Vijelie', 'Averse', 'Ploaie', 'Caniculă', 'Disconfort termic', 'Vânt puternic']",CT,25.692,1011.725,25.54,77.33333333
+8/17/2023,Dobrogea,"['Caniculă', 'Caniculă']",CT,21.808,1011.1,26.1525,72.66666667
+8/18/2023,Dobrogea,['Caniculă'],CT,27.54,1011.233333,26.07,71
+8/19/2023,Dobrogea,['Caniculă'],CT,25.14,1011.633333,25.7,73
+8/20/2023,Dobrogea,['Vant puternic'],CT,25.74,1010.166667,27.08,58
+8/21/2023,Dobrogea,"['Caniculă', 'Disconfort termic']",CT,27.066,1010.133333,27.61333333,54.5
+8/22/2023,Dobrogea,"['Caniculă', 'Caniculă', 'Caniculă', 'Caniculă', 'Averse']",CT,29.064,1010.966667,28.09666667,60
+8/23/2023,Dobrogea,"['Caniculă', 'Furtună', 'Inundație', 'Furtună', 'Fulger', 'Averse torențiale', 'Grindină']",CT,30.408,1010.625,27.2775,73
+8/25/2023,Dobrogea,"['Caniculă', 'Caniculă', 'Caniculă', 'Furtună', 'Grindină']",CT,22.49,1009.6,25.8,81.66666667
+8/26/2023,Dobrogea,"['Caniculă', 'Caniculă']",CT,18.83,1009.95,26,80.33333333
+8/27/2023,Dobrogea,['Caniculă'],CT,18.2375,1008.25,25.5325,77.66666667
+8/28/2023,Dobrogea,"['Caniculă', 'Caniculă', 'Caniculă', 'Averse', 'Caniculă']",CT,28.7325,1005.325,25.555,68.33333333
+8/29/2023,Dobrogea,"['Caniculă', 'Furtună', 'Ploi torențiale', 'Grindină', 'Vijelie']",CT,28.7325,1002.2,27.04,64
+8/30/2023,Dobrogea,"['Furtună', 'Grindină', 'Fulger', 'Rafale puternice de vânt', 'Inundație', 'Instabilitate atmosferică']",CT,30.3475,1001.175,26.8225,83.33333333
+8/31/2023,Dobrogea,"['Caniculă', 'Averse']",CT,22.1025,1004.475,25.3825,81.66666667
+9/1/2023,Dobrogea,['Ploaie'],CT,24.1225,1010.175,24.42,70.33333333
+9/3/2023,Dobrogea,"['Cer senin', 'Atmosferă insorită']",CT,17.318,1013.15,23.935,66
+9/4/2023,Dobrogea,"['Furtună', 'Vijelie']",CT,14.7425,1009.9,22.4475,74
+9/5/2023,Dobrogea,['Vant puternic'],CT,23.33,1012.375,21.9925,69.33333333
+9/6/2023,Dobrogea,"['Averse', 'Vant puternic']",CT,37.124,1015.6,22.92,67
+9/7/2023,Dobrogea,['Furtună'],CT,46.425,1016.25,22.4725,66
+9/8/2023,Dobrogea,['Secetă'],CT,36.1375,1015.7,21.835,64
+9/12/2023,Dobrogea,['Secetă'],CT,27.5525,1013.425,19.82,70.33333333
+9/14/2023,Dobrogea,"['Vânt puternic', 'Furtună']",CT,35.0275,1011.525,22.675,70.66666667
+9/15/2023,Dobrogea,"['Averse', 'Furtună', 'Trăsnet', 'Secetă']",CT,27.692,1012.3,22.8625,73.66666667
+9/16/2023,Dobrogea,"['Ploi abundente', 'Cantități însemnate de apă']",CT,20.496,1016.175,21.94,84.33333333
+9/17/2023,Dobrogea,['Soare'],CT,14.264,1017.75,21.4625,73.66666667
+9/18/2023,Dobrogea,['Inundație'],CT,19.682,1016.975,20.46,77.75
+9/19/2023,Dobrogea,"['Vreme frumoasă', 'Insolatie']",CT,24.494,1013.75,20.075,80.75
+9/20/2023,Dobrogea,['Averse'],CT,23.752,1012.55,20.4175,76.66666667
+9/21/2023,Dobrogea,"['Furtună', 'Ploi slabe', 'Averse']",CT,17.92,1012.275,20.8475,80
+9/22/2023,Dobrogea,['Caniculă'],CT,26.166,1011.3,22.3475,79.66666667
+9/23/2023,Dobrogea,['Caniculă'],CT,15.5375,1011.725,23.2875,86.33333333
+9/24/2023,Dobrogea,"['Atmosferă însorită', 'Vânt insistent', 'Temperaturi de 33 de grade', 'Inundație', 'Avalanșă']",CT,13.3575,1012.15,22.82,86
+9/26/2023,Dobrogea,"['Vânt puternic', 'Vânt puternic']",CT,29.4625,1015.45,22.79,71.33333333
+9/27/2023,Dobrogea,['Vânt puternic'],CT,30.96,1015.05,22.4775,69.33333333
+9/29/2023,Dobrogea,['Furtună'],CT,36.8675,1013.1,20.795,71.66666667
+9/30/2023,Dobrogea,['Ploaie'],CT,31.802,1012.05,20.615,64.66666667
+10/1/2023,Dobrogea,['Brumă'],CT,26.035,1011.425,20.9875,57.66666667
+10/2/2023,Dobrogea,"['Furtună', 'Fulger', 'Ploaie', 'Ploaie']",CT,20.208,1016.65,18.1575,56
+10/4/2023,Dobrogea,['Caniculă'],CT,28.222,1017.725,17.375,69.66666667
+10/5/2023,Dobrogea,"['Furtună', 'Ploaie', 'Fulger']",CT,23.152,1018.975,18.19,80
+10/6/2023,Dobrogea,['Vânt puternic'],CT,19.864,1017.1,17.422,75.66666667
+10/8/2023,Dobrogea,"['Ploi', 'Vant puternic']",CT,33.798,1008.14,16.658,57
+10/9/2023,Dobrogea,"['Ploaie', 'Vânt puternic']",CT,7.648,1017.88,11.202,61.33333333
+10/13/2023,Dobrogea,['Caniculă'],CT,29.928,1014.5,15.468,76
+10/14/2023,Dobrogea,"['Caniculă', 'Ploaie']",CT,24.566,1012.58,15.762,84
+10/15/2023,Dobrogea,"['Ploaie', 'Ploaie', 'Vânt puternic']",CT,12.31,1004.48,16.72,86.33333333
+10/16/2023,Dobrogea,"['Ploaie', 'Vânt puternic', 'Inundație']",CT,13.9025,1010.28,11.364,74.33333333
+10/17/2023,Dobrogea,"['Temperaturi sub normale', 'Innorari']",CT,12.846,1017.32,10.134,69.33333333
+10/18/2023,Dobrogea,['Ploaie'],CT,12.448,1014.1,11.786,79.66666667
+10/19/2023,Dobrogea,"['Vant puternic', 'Temperaturi peste medie']",CT,16.098,1010.06,12.97,80
+10/20/2023,Dobrogea,"['Vreme frumoasă', 'Vant activ']",CT,23.97,1002.6,18.01,70.66666667
+10/21/2023,Dobrogea,"['Ploaie', 'Caniculă']",CT,38.432,1005,21.472,57.33333333
+10/22/2023,Dobrogea,"['Caniculă', 'Ploaie']",CT,36.014,1007.88,19.934,60.66666667
+10/23/2023,Dobrogea,['Ploaie'],CT,32.404,1010.26,18.936,65.66666667
+10/25/2023,Dobrogea,"['Ploaie', 'Furtună']",CT,35.308,1001.7,19.41,73
+10/26/2023,Dobrogea,['Caniculă'],CT,25.842,999.26,19.272,72.33333333
+10/27/2023,Dobrogea,"['Ploi', 'Descărcări electrice']",CT,32.164,997.08,18.608,72.66666667
+10/28/2023,Dobrogea,['Ploaie'],CT,20.716,1000.56,19.76,57.33333333
+10/29/2023,Dobrogea,"['Soare', 'Vreme foarte plăcută']",CT,12.994,1011.16,15.974,71.33333333
+10/30/2023,Dobrogea,"['Caniculă', 'Inundație', 'Fenomen meteo: Ceață']",CT,19.624,1014.5,14.95,84
+10/31/2023,Dobrogea,['Caniculă'],CT,18.028,1009.7,15.474,93.33333333
+11/1/2023,Dobrogea,"['Ploi', 'Vant puternic']",CT,22.316,1006.2,15.956,74
+11/2/2023,Dobrogea,['Ploaie'],CT,10.576,1006.8,12.424,92.66666667
+11/3/2023,Dobrogea,['Ploaie'],CT,17.244,1000.62,14.322,95
+11/4/2023,Dobrogea,"['Ploaie', 'Descărcări electrice', 'Vânt puternic', 'Furtună', 'Vijelie', 'Averse moderate', 'Descărcări electrice', 'Grindină', 'Vijelie', 'Grindină', 'Furtună', 'Inundație']",CT,21.698,995.3,15.796,91.66666667
+11/5/2023,Dobrogea,"['Ploaie', 'Fenomene electrice']",CT,5.726,997.8,14.38,78.33333333
+11/6/2023,Dobrogea,"['Cer senin', 'Vânt puternic']",CT,11.668,1004.86,15.552,68
+11/7/2023,Dobrogea,['Ploaie'],CT,16.426,1014.96,13.602,83.33333333
+11/8/2023,Dobrogea,['Ploaie'],CT,16.41,1008.94,15.278,88.66666667
+11/10/2023,Dobrogea,"['Vant intens', 'Ploi']",CT,20.878,1013.42,10.504,84
+11/11/2023,Dobrogea,"['Ploaie', 'Vânt puternic', 'Vant puternic', 'Ninsori']",CT,12.31,999.06,13.438,88.33333333
+11/12/2023,Dobrogea,['Viscol'],CT,10.6525,1003.78,9.918,58
+11/13/2023,Dobrogea,"['Cer senin', 'Ploaie']",CT,17.1025,1010.62,6.998,71.33333333
+11/14/2023,Dobrogea,['Ploaie'],CT,18.2375,1008.14,10.37,66.66666667
+11/17/2023,Dobrogea,"['Ploi', 'Ploi', 'Lapoviță', 'Ninsoare', 'Vânt puternic', 'Viscol']",CT,22.4425,1007.125,8.84,80
+11/18/2023,Dobrogea,"['Ploi abundente', 'Vant puternic', 'Lapovita', 'Ninsoare', 'Intensificari ale vantului', 'Precipitatii mixte si abundente', 'Intensificari ale vantului', 'Inundație']",CT,8.2675,994.925,6.905,96.5
+11/19/2023,Dobrogea,['Vant puternic'],CT,6.6325,1004.375,1.07,88.5
+11/20/2023,Dobrogea,"['Ploaie', 'Înnorări', 'Ploaie ușoară', 'Vânt puternic']",CT,12.265,1006.8,3.055,86
+11/21/2023,Dobrogea,['Ploaie'],CT,26.755,1006.875,8.8975,85
+11/22/2023,Dobrogea,"['Ploi', 'Vânt puternic']",CT,11.1075,1009.54,9.69,97
+11/23/2023,Dobrogea,"['Furtună', 'Fulger']",CT,16.945,1015.38,5.02,93.66666667
+11/24/2023,Dobrogea,"['Vant puternic', 'Inundație', 'Avalanșă', 'Viscol', 'Ninsori']",CT,14.945,996.86,7.892,91
+11/25/2023,Dobrogea,"['Ploi', 'Ninsori', 'Viscol']",CT,4.84,986.76,5.944,98.66666667
+11/26/2023,Dobrogea,"['Viscol', 'Precipitații']",CT,5.15,983.96,-0.124,98.66666667
+11/27/2023,Dobrogea,"['Viscol', 'Ploi']",CT,5.966666667,1005.2,-1.6025,90
+11/28/2023,Dobrogea,"['Ploi', 'Vânt puternic', 'Intensificari ale vantului']",CT,9.146666667,998.7,5.7775,84.5
+11/29/2023,Dobrogea,"['Vreme însorită', 'Vânt intensificat']",CT,7.296666667,997.85,6.72,86.5
+11/30/2023,Dobrogea,"['Vreme insorită', 'Vant puternic']",CT,14.305,1010.55,3.1475,88
+12/1/2023,Dobrogea,"['Furtună', 'Fulger', 'Ninsori']",CT,10.125,1002.825,10.82,83.5
+12/2/2023,Dobrogea,"['Inundație', 'Avalanșă', 'Caniculă']",CT,11.99,999.05,13.5775,83.5
+12/5/2023,Dobrogea,"['Innorari', 'Ploi']",CT,29.665,1016.225,4.645,83
+12/6/2023,Dobrogea,"['Ploi', 'Vânt', 'Ploaie']",CT,10.08,1008.925,5.65,97
+12/7/2023,Dobrogea,"['Ploi', 'Lapoviță', 'Vânt puternic']",CT,8.995,1010.24,2.156,98
+12/8/2023,Dobrogea,"['Lapoviță', 'Vânt puternic']",CT,8.33,1012.76,-0.306,94.66666667
+12/9/2023,Dobrogea,"['Cer acoperit', 'Vant intensificat', 'Precipitatii slabe']",CT,12.26666667,1013.46,-0.556,96.33333333
+12/11/2023,Dobrogea,"['Burnită', 'Polei']",CT,22.35,1011.74,0.9,97.33333333
+12/12/2023,Dobrogea,"['Înnorări', 'Ploi slabe']",CT,21.5325,1008.16,3.15,95.66666667
+12/13/2023,Dobrogea,"['Ploi', 'Vânt']",CT,21.2175,1006.22,5.244,97
+12/14/2023,Dobrogea,"['Ploaie', 'Ape acumulate', 'Vânt insistent']",CT,16.96,1001.14,9.122,91.66666667
+12/15/2023,Dobrogea,['Ploaie'],CT,7.603333333,1016.6,3.156,94
+12/16/2023,Dobrogea,['Zi insorita'],CT,9.663333333,1028.08,1.326,83.66666667
+12/17/2023,Dobrogea,['Vânt'],CT,13.48,1030.76,0.96,89.66666667
+12/18/2023,Dobrogea,"['Ceata', 'Ghețuș', 'Vreme frumoasă', 'Vânt puternic', 'Ploaie']",CT,16.35333333,1024.18,3.364,86
+12/21/2023,Dobrogea,['Vant puternic'],CT,25.68666667,1000.54,3.61,90.33333333
+12/22/2023,Dobrogea,"['Vant puternic', 'Ploi', 'Lapovita', 'Ninsori']",CT,14.59666667,990.1,3.41,84
+12/23/2023,Dobrogea,['Ploaie'],CT,10.31,992.48,2.85,81
+12/25/2023,Dobrogea,"['Caniculă', 'Furtună', 'Inundație']",CT,11.04,1004.28,9.488,69.66666667
+12/26/2023,Dobrogea,['Inundație'],CT,15.02666667,1009.32,11.282,68.66666667
+12/27/2023,Dobrogea,['Ceata'],CT,18.41666667,1014.5,8.462,79.33333333
+12/28/2023,Dobrogea,['Ceață'],CT,14.9475,1020.82,5.95,91
+12/29/2023,Dobrogea,['Ceață'],CT,19.23,1014.08,5.03,87.33333333
+12/30/2023,Dobrogea,['Ceață'],CT,19.026,1012.62,4.86,89
+12/31/2023,Dobrogea,['Ceata'],CT,19.988,1014.46,5.6,87
+1/1/2024,Dobrogea,['Inundație'],CT,17.154,1008.7,6.914,92.66666667
+1/2/2024,Dobrogea,"['Atmosfera inchisa', 'Ploi slabe', 'Temperaturi peste limitele normale']",CT,11.558,1007.66,4.8,94.66666667
+1/3/2024,Dobrogea,"['Vreme schimbătoare', 'Ploi slabe']",CT,7.1775,1003.48,5.264,92.33333333
+1/4/2024,Dobrogea,"['Innorari', 'Ploaie']",CT,6.7225,999.32,8.742,86
+1/5/2024,Dobrogea,"['Căldură', 'Ceață']",CT,12.0625,1006.98,7.5,81.66666667
+1/6/2024,Dobrogea,"['Furtună', 'Inundație']",CT,12.8125,1006.56,8.41,92
+1/7/2024,Dobrogea,"['Ploi', 'Polei', 'Ninsori moderate cantitativ', 'Viscol']",CT,18.6275,997,9.718,91.66666667
+1/8/2024,Dobrogea,"['Ploaie', 'Lapoviță', 'Ger', 'Viscol', 'Polei', 'Ninsori']",CT,11.0875,1003.78,-1.382,92.66666667
+1/9/2024,Dobrogea,"['Fulgi de zapadă', 'Vânt puternic', 'Viscol']",CT,14.4,1021.02,-6.5,79
+1/12/2024,Dobrogea,['Fulgi de zapada'],CT,13.9425,1013.24,-2.79,73.33333333
+1/13/2024,Dobrogea,"['Ninsori', 'Viscol']",CT,16.5825,1013.8,-2.76,68.66666667
+1/15/2024,Dobrogea,['Ploaie'],CT,17.2875,1001.44,2.602,72.33333333
+1/18/2024,Dobrogea,"['Ploaie', 'Vânt puternic']",CT,15.79,999.92,8.302,94
+1/19/2024,Dobrogea,"['Secetă', 'Ploi', 'Vant activ', 'Vijelie', 'Viscol', 'Ninsoare']",CT,15.855,999.92,9.636,88.5
+1/21/2024,Dobrogea,['Ceata'],CT,12.1525,1027.12,-3.93,96.5
+1/22/2024,Dobrogea,"['Innorari', 'Ceata', 'Ceață', 'Ghețuș']",CT,15.2225,1030.72,-5.292,97.5
+1/23/2024,Dobrogea,"['Nori de joasă altitudine', 'Insorit', 'Vânt puternic']",CT,19.502,1022.42,-2.856,95
+1/24/2024,Dobrogea,"['Innorări', 'Precipitații', 'Polei']",CT,16.83,1020.96,-4.284,97
+1/25/2024,Dobrogea,"['Ploaie', 'Intensificari ale vantului']",CT,15.028,1008.92,2.736,87
+1/26/2024,Dobrogea,['Vant puternic'],CT,8.216,1012.4,2.24,90.33333333
+1/27/2024,Dobrogea,"['Ninsoare', 'Lapoviță']",CT,12.412,1014.62,1.32,93.66666667
+1/28/2024,Dobrogea,"['Lapoviță', 'Fulgi de zapadă', 'Vânt puternic']",CT,8.688,1023.7,1.184,92
+1/29/2024,Dobrogea,"['Lapoviță', 'Vânt puternic', 'Caniculă']",CT,12.34,1031.1,0.874,90.66666667
+1/31/2024,Dobrogea,"['Ceață', 'Ger']",CT,23.37,1029.46,-0.65,85
+2/2/2024,Dobrogea,"['Innorari', 'Ploaie slaba', 'Vant insistent']",CT,24.878,1017.2,1.726,85.66666667
+2/3/2024,Dobrogea,['Vant puternic'],CT,16.864,1014.78,3.064,82.33333333
+2/4/2024,Dobrogea,['Vânt puternic'],CT,13.212,1009.94,6.406,81.66666667
+2/5/2024,Dobrogea,"['Vânt puternic', 'Vânt puternic', 'Caniculă']",CT,15.6025,1004.78,10.156,70.66666667
+2/6/2024,Dobrogea,['Vant puternic'],CT,20.625,1007.24,12.22,56
+2/7/2024,Dobrogea,"['Vreme frumoasă', 'Vant activ']",CT,24.6225,1003.92,11.494,56.33333333
+2/8/2024,Dobrogea,['Vreme frumoasă'],CT,28.4375,1002.86,11.132,62
+2/9/2024,Dobrogea,"['Vreme insorită', 'Intensificări ale vântului']",CT,27.5775,1002,11.368,62.33333333
+2/10/2024,Dobrogea,"['Innouri', 'Posibila ploaie', 'Temperaturi ridicate', 'Innouri', 'Posibila ploaie', 'Vijelie']",CT,24.01,1001.72,11.57,73.66666667
+2/11/2024,Dobrogea,"['Ploaie', 'Vânt puternic', 'Vijelie']",CT,33.8475,1001.66,12.984,71.66666667
+2/12/2024,Dobrogea,"['Vânt intens', 'Ploi locale', 'Inundație', 'Avalanșă']",CT,16.74,1000.16,11.124,76.33333333
+2/13/2024,Dobrogea,"['Ploaie', 'Vânt puternic']",CT,17.11333333,1001.3,8.33,87
+2/14/2024,Dobrogea,"['Inundație', 'Avalanșă', 'Ploaie']",CT,5.885,1009.62,5.648,87.33333333
+2/16/2024,Dobrogea,['Ploaie slaba'],CT,18.50666667,1018.34,3.962,95
+2/17/2024,Dobrogea,['Ploi'],CT,20.6275,1022.5,2.114,95
+2/18/2024,Dobrogea,['Ploaie'],CT,12.54,1022.98,4.214,92.66666667
+2/19/2024,Dobrogea,"['Vreme mohorâtă', 'Ploaie slabă']",CT,10.81333333,1022.2,3.904,76
+2/20/2024,Dobrogea,"['Innorări', 'Ploi slabe']",CT,16.69,1019.16,4.726,82.33333333
+2/21/2024,Dobrogea,['Ploaie'],CT,30.07333333,1018.06,4.906,88.33333333
+2/22/2024,Dobrogea,['Ceață'],CT,24.87333333,1014.3,4.2,91.33333333
+2/23/2024,Dobrogea,['Caniculă'],CT,31.0075,1008.86,8.312,86
+2/24/2024,Dobrogea,"['Ceață', 'Vreme caldă']",CT,33.165,1010.3,9.526,86.33333333
+2/25/2024,Dobrogea,['Vant puternic'],CT,28.645,1011.38,8.864,92.66666667
+2/28/2024,Dobrogea,['Ceata'],CT,24.94,1018,7.08,93
+2/29/2024,Dobrogea,"['Furtună', 'Fulger']",CT,16.605,1018,6.34,97.66666667
+3/1/2024,Dobrogea,"['Ploi pe suprafete restranse', 'Ploi sporadice']",CT,17.4025,1013.24,7.166,97.66666667
+3/2/2024,Dobrogea,['Ploaie'],CT,24.1025,1008.8,6.824,94.66666667
+3/3/2024,Dobrogea,"['Ploaie', 'Scadere temperatura']",CT,29.7575,1009.68,5.452,86
+3/4/2024,Dobrogea,"['Ploaie', 'Inundație']",CT,28.4625,1010.2,6.764,91.66666667
+3/6/2024,Dobrogea,"['Ploaie', 'Vânt puternic']",CT,35.4825,1010.92,5.61,81.33333333
+3/7/2024,Dobrogea,"['Ploi', 'Vânt', 'Caniculă', 'Incendii', 'Secetă']",CT,35.1225,1014.58,4.154,84.33333333
+3/8/2024,Dobrogea,"['Ploi', 'Vant puternic']",CT,29.26,1015.4,4.71,78.66666667
+3/10/2024,Dobrogea,"['Ploaie', 'Ceată']",CT,21.65,1013.94,5.488,89
+3/11/2024,Dobrogea,"['Ploaie', 'Vânt puternic']",CT,26.1925,1013.78,7.804,94.66666667
+3/12/2024,Dobrogea,['Ploaie'],CT,28.65666667,1007.06,7.948,97.33333333
+3/13/2024,Dobrogea,"['Ceata', 'Ploi']",CT,18.695,1003.66,8.53,96
+3/14/2024,Dobrogea,['Ploaie'],CT,23.715,1008.6,5.05,97
+3/15/2024,Dobrogea,['Ploaie'],CT,30.96,1012.54,5.268,87
+3/16/2024,Dobrogea,"['Vreme schimbătoare', 'Norii vin și trec']",CT,36.2075,1015,6.39,90
+3/17/2024,Dobrogea,"['Vreme schimbătoare', 'Norii vin și trec', 'Temperaturi în creștere']",CT,28.3975,1013.98,6.054,89.66666667
+3/19/2024,Dobrogea,"['Ploaie', 'Lapoviță', 'Vânt activ', 'Ploaie', 'Vânt puternic']",CT,23.17,1009.2,3.85,96
+3/20/2024,Dobrogea,"['Ploi', 'Vânt']",CT,13.87333333,1013.76,3.848,81.66666667
+3/21/2024,Dobrogea,"['Cer acoperit', 'Ploaie slabă', 'Vânt activ']",CT,10.77,1013.44,4.4,89.33333333
+3/22/2024,Dobrogea,"['Vreme schimbatoare', 'Innorari', 'Insorit', 'Ploaie slaba']",CT,19.905,1013.38,4.848,89
+3/24/2024,Dobrogea,"['Vânt', 'Averse', 'Vânt puternic', 'Ninsori', 'Vânt puternic', 'Ploaie']",CT,22.67,999.9,9.196,82
+3/25/2024,Dobrogea,"['Răcire semnificativă', 'Ploi', 'Lapoviță', 'Vânt puternic']",CT,9.36,996.34,5.942,93
+3/26/2024,Dobrogea,['Vânt puternic'],CT,29.31,1006.86,7.954,73.33333333
+3/27/2024,Dobrogea,"['Ploi slabe', 'Vânt insistent']",CT,30.62,1007.32,8.558,86.66666667
+3/28/2024,Dobrogea,"['Ploi', 'Vânt puternic']",CT,45.62,1003.04,12.676,81
+3/29/2024,Dobrogea,['Ploaie'],CT,47.03,1008.48,15.702,66.66666667
+3/31/2024,Dobrogea,['Caniculă'],CT,53.755,1009.7,12.952,82.66666667
+4/1/2024,Dobrogea,"['Furtună', 'Inundație', 'Vijelie', 'Ploaie']",CT,,1007.46,16.658,72
+4/2/2024,Dobrogea,['Vânt puternic'],CT,,1000.98,18.394,54.33333333
+4/3/2024,Dobrogea,['Vânt'],CT,,1008.72,13.9,58.66666667
+4/5/2024,Dobrogea,['Ploaie'],CT,,1012.92,13.082,80.25
+8/15/2023,Transilvania,['Averse'],BV,23.26,955.9,22.1325,59
+8/16/2023,Transilvania,"['Grindină', 'Furtună', 'Ploaie', 'Vijelie', 'Grindină']",BV,29.34666667,954.9,21.5925,68.5
+8/17/2023,Transilvania,"['Averse', 'Grindină', 'Fulger']",BV,27.46666667,953.725,23.3775,64.75
+8/18/2023,Transilvania,"['Fulger', 'Grindină']",BV,27.31666667,953.6,24.55,58.5
+8/19/2023,Transilvania,"['Grindină', 'Furtună']",BV,27.01333333,954.05,24.5475,58.25
+8/20/2023,Transilvania,"['Averse', 'Vant puternic']",BV,23.11,954.5,24.09,57
+8/21/2023,Transilvania,"['Caniculă', 'Disconfort termic', 'Furtună', 'Fulger', 'Grindină']",BV,27.65,954.65,24.385,60.75
+8/22/2023,Transilvania,"['Caniculă', 'Averse']",BV,30.89333333,954.525,24.9225,62.25
+8/23/2023,Transilvania,"['Grindină', 'Vijelie', 'Vijelie', 'Furtună', 'Fulger', 'Averse torențiale', 'Grindină']",BV,27.4425,952.65,23.735,67
+8/24/2023,Transilvania,"['Vijelie', 'Furtună', 'Grindină', 'Averse torențiale']",BV,20.605,951.325,22.87,76.25
+8/25/2023,Transilvania,"['Furtună', 'Vijelie', 'Grindină', 'Caniculă']",BV,17.515,951.175,23.0925,74
+8/26/2023,Transilvania,['Caniculă'],BV,21.31,950.35,24.3125,63.25
+8/27/2023,Transilvania,['Caniculă'],BV,25.0325,948.1,25.4325,58.75
+8/28/2023,Transilvania,"['Caniculă', 'Caniculă', 'Caniculă', 'Averse', 'Caniculă']",BV,27.0325,945.725,25.2425,55.5
+8/29/2023,Transilvania,"['Ploi torențiale', 'Furtună', 'Grindină', 'Vijelie', 'Vijelie', 'Grindină', 'Furtună', 'Averse', 'Descărcări electrice']",BV,22.0375,942.8666667,24.26,59.33333333
+8/30/2023,Transilvania,"['Furtună', 'Grindină', 'Fulger', 'Rafale puternice de vânt', 'Instabilitate atmosferică']",BV,12.87333333,942.525,19.5025,85
+8/31/2023,Transilvania,"['Furtună', 'Grindină', 'Fulger', 'Furtună', 'Vânt puternic', 'Pagube materiale']",BV,15.66,946.525,18.835,79.25
+9/1/2023,Transilvania,"['Grindină', 'Vânt puternic']",BV,12.50666667,953.15,18.69,72.75
+9/2/2023,Transilvania,"['Furtună', 'Fulger']",BV,12.48,956.15,18.285,66.75
+9/3/2023,Transilvania,"['Ploi torențiale', 'Fulger', 'Tunet', 'Vânt puternic', 'Vijelie', 'Grindină']",BV,10.54,955.05,17.6825,74.75
+9/4/2023,Transilvania,['Grindină'],BV,7.405,953.425,15.98,88
+9/5/2023,Transilvania,['Ploaie'],BV,13.95,957,17.23,71.75
+9/6/2023,Transilvania,['Vant puternic'],BV,14.995,958.25,17.9175,57
+9/7/2023,Transilvania,"['Furtună', 'Viscol']",BV,18.75,958.65,16.87,64.25
+9/10/2023,Transilvania,"['Furtună', 'Grindină']",BV,23.05333333,955.2,18.84,62.25
+9/14/2023,Transilvania,"['Ploaie', 'Fulger', 'Grindină', 'Vânt puternic', 'Furtună', 'Grindină']",BV,33.71333333,951.1,19.495,69
+9/15/2023,Transilvania,"['Grindină', 'Furtună', 'Trăsnet', 'Furtună', 'Grindină', 'Vijelie', 'Furtună', 'Fulger']",BV,21.81,953.075,18.29,87.5
+9/16/2023,Transilvania,"['Furtună', 'Averse abundente', 'Fenomene electrice']",BV,16.29333333,956.35,18.245,79.75
+9/17/2023,Transilvania,['Averse'],BV,15.84,956.575,18.715,70.75
+9/18/2023,Transilvania,"['Furtună', 'Grindină']",BV,19.35333333,955.5,17.1775,68.75
+9/19/2023,Transilvania,"['Caniculă', 'Furtună', 'Ploi zgomotoase']",BV,23.17,951.625,16.2075,75.25
+9/20/2023,Transilvania,"['Averse', 'Fenomene electrice']",BV,16.78,952.75,17.9825,77.25
+9/21/2023,Transilvania,"['Furtună', 'Fulger', 'Trăsnet', 'Averse']",BV,20.44666667,951.025,18.66,71
+9/22/2023,Transilvania,"['Furtună', 'Averse']",BV,25.715,949.15,21.33,64
+9/23/2023,Transilvania,"['Furtună', 'Averse', 'Descărcări electrice']",BV,35.98,950.7,21.1,68.66666667
+9/24/2023,Transilvania,"['Furtună', 'Averse abundente', 'Descărcări electrice', 'Rafale puternice de vânt', 'Tunete', 'Fulgere', 'Furtună', 'Fulger', 'Vijelie', 'Grindină', 'Furtună', 'Fulger']",BV,36.345,951.6,22.15333333,66
+9/26/2023,Transilvania,"['Furtună', 'Vânt puternic', 'Vijelie', 'Furtună', 'Vânt puternic']",BV,29.50333333,958.725,17.4125,61.5
+9/27/2023,Transilvania,['Vânt puternic'],BV,32.44,958.4,16.485,58.75
+9/30/2023,Transilvania,"['Furtună', 'Ploaie']",BV,29.17,955.25,15.9575,62
+10/1/2023,Transilvania,"['Furtună', 'Averse cu descărcări electrice', 'Brumă']",BV,20.53666667,954.425,16.8625,61.25
+10/2/2023,Transilvania,"['Furtună', 'Vijelie', 'Fulger']",BV,13.78333333,957.55,14.9475,60.5
+10/3/2023,Transilvania,"['Ceață', 'Ger', 'Brumă']",BV,23.08333333,958.9333333,12.54666667,70.33333333
+10/4/2023,Transilvania,['Ciclon'],BV,29.35,957.1333333,14.12666667,72.33333333
+10/5/2023,Transilvania,"['Furtună', 'Fulger']",BV,25.7175,958.2,16.44666667,74
+10/6/2023,Transilvania,['Ploaie'],BV,15.9925,958.1333333,14.62666667,72.33333333
+10/7/2023,Transilvania,['Vijelie'],BV,15.9925,956.5,12.46666667,68.33333333
+10/8/2023,Transilvania,"['Ploi', 'Vant puternic']",BV,13.495,949.8,14.66666667,66
+10/9/2023,Transilvania,"['Ploaie', 'Vânt puternic', 'Ninsori']",BV,9.7,955.7,8.683333333,66
+10/12/2023,Transilvania,['Furtună'],BV,26.1475,956,13.94,70.66666667
+10/13/2023,Transilvania,['Ploaie'],BV,36.735,955.2333333,12.15666667,83.33333333
+10/14/2023,Transilvania,"['Vijelie', 'Furtună']",BV,27.86666667,951.0666667,14.36,71
+10/15/2023,Transilvania,"['Ploaie', 'Vant puternic', 'Vânt puternic']",BV,26.37666667,944.4333333,14.20666667,72.33333333
+10/16/2023,Transilvania,['Ploaie'],BV,8.236666667,952.275,7.325,69.75
+10/17/2023,Transilvania,"['Vant activ', 'Temperaturi modeste', 'Innorari']",BV,21.71666667,954.85,5.245,75
+10/18/2023,Transilvania,"['Furtună', 'Grindină', 'Fulger']",BV,19.96,952.125,6.2125,72
+10/19/2023,Transilvania,"['Ploaie', 'Vant puternic']",BV,28.8525,946.025,8.1375,73
+10/20/2023,Transilvania,"['Ploaie', 'Vant puternic']",BV,32.70666667,940.4,15.1675,66.5
+10/21/2023,Transilvania,"['Ploaie', 'Vânt puternic']",BV,30.4875,944.325,24.1325,28.5
+10/22/2023,Transilvania,"['Ploaie', 'Vant puternic']",BV,26.5325,947.5,17.745,53.75
+10/23/2023,Transilvania,['Furtună'],BV,21.535,951.55,15.45,68
+10/24/2023,Transilvania,['Ploi'],BV,29.6,949.6,13.42,72.75
+10/25/2023,Transilvania,"['Furtună', 'Ciclon', 'Uragan', 'Tornadă', 'Vijelie', 'Grindină', 'Viscol', 'Avalanșă', 'Inundație', 'Ploaie', 'Furtună', 'Vânt puternic']",BV,24.1225,940.675,16.71,60.25
+10/26/2023,Transilvania,"['Furtună', 'Ploi', 'Vânt', 'Inundație']",BV,18.1725,938.825,14.3675,74
+10/27/2023,Transilvania,"['Furtună', 'Vânt puternic', 'Averse abundente', 'Vijelie']",BV,12.36,936.2,13.235,83.5
+10/28/2023,Transilvania,"['Furtună', 'Grindină', 'Ploaie']",BV,8.4525,942.1666667,13.28666667,61
+10/29/2023,Transilvania,"['Ploi slabe', 'Innorari temporare']",BV,18.66,951.0666667,10.88666667,70.33333333
+10/30/2023,Transilvania,"['Furtună', 'Fulger']",BV,25.41333333,952.7333333,12.24666667,64.33333333
+10/31/2023,Transilvania,"['Furtună', 'Ploaie', 'Descărcări electrice']",BV,23.50333333,946.7333333,14.71666667,51
+11/1/2023,Transilvania,"['Ploi', 'Vant puternic']",BV,8.175,947.8333333,11.35,72.66666667
+11/2/2023,Transilvania,"['Furtună', 'Ceată']",BV,20.41333333,945.3666667,8.49,76.66666667
+11/3/2023,Transilvania,"['Furtună', 'Ploaie', 'Vânt puternic']",BV,17.08,937.2,13.61333333,66
+11/4/2023,Transilvania,"['Furtună', 'Vijelie', 'Ploaie', 'Descărcări electrice', 'Vânt puternic']",BV,12.57,933.6,11.77333333,85.66666667
+11/5/2023,Transilvania,"['Ploaie', 'Vant puternic', 'Furtună', 'Averse']",BV,6.176666667,935.6,10.45,73
+11/6/2023,Transilvania,"['Ploaie', 'Vânt puternic']",BV,7.903333333,945.2333333,12.13666667,64
+11/7/2023,Transilvania,['Ploaie'],BV,26.3075,953.6666667,8.186666667,78
+11/8/2023,Transilvania,"['Ploaie', 'Lapoviță', 'Ninsoare']",BV,19.855,949.1,8.99,77.66666667
+11/9/2023,Transilvania,['Ninga'],BV,13.425,954.2333333,7.083333333,66
+11/10/2023,Transilvania,['Vant intens'],BV,17.75,948.5666667,6.663333333,61.66666667
+11/11/2023,Transilvania,"['Furtună', 'Ploaie', 'Ninsori', 'Vânt puternic', 'Viscol', 'Ninsori', 'Zapada', 'Ninsori']",BV,12.45,938.1333333,10.21,64
+11/12/2023,Transilvania,"['Viscol', 'Viscol', 'Ninsori', 'Vant puternic', 'Zapada', 'Viscol']",BV,4.36,942.5,5.945,67.5
+11/13/2023,Transilvania,"['Ploaie', 'Ninsoare']",BV,18.125,949.4666667,4.313333333,65
+11/14/2023,Transilvania,"['Ploaie', 'Ninsoare', 'Vânt puternic']",BV,22.3525,946.1666667,10.09333333,69.66666667
+11/17/2023,Transilvania,"['Ploi', 'Ninsori viscolite', 'Ninsori', 'Viscol', 'Viscol']",BV,20.0325,944.4333333,5.383333333,79.66666667
+11/18/2023,Transilvania,"['Ninsori', 'Viscol', 'Ninsori', 'Viscol', 'Polei']",BV,4.9075,943.7,2.963333333,89.66666667
+11/19/2023,Transilvania,"['Ninsoare', 'Viscol']",BV,4.3,949.7,1.5,86
+11/20/2023,Transilvania,"['Ploaie', 'Ninsoare', 'Polei', 'Vânt puternic']",BV,15.9,946.6,3.466666667,89
+11/21/2023,Transilvania,"['Ploaie', 'Vânt activ', 'Ninsoare', 'Lapoviță']",BV,21.7875,945.7,7.583333333,80.33333333
+11/22/2023,Transilvania,"['Ploi trecătoare', 'Innorări', 'Lapoviță', 'Ninsoare']",BV,18.1925,949.3333333,6.01,83.66666667
+11/23/2023,Transilvania,"['Fulger', 'Furtună', 'Viscol', 'Viscol', 'Viscol']",BV,12.8375,952.4333333,5.55,76.33333333
+11/24/2023,Transilvania,"['Ninsoare', 'Viscol', 'Viscol']",BV,14.88,936.1333333,4.826666667,67
+11/25/2023,Transilvania,"['Ninsori', 'Viscol', 'Zapada']",BV,9.9275,929.7333333,2.326666667,86.33333333
+11/26/2023,Transilvania,['Viscol'],BV,5.295,932.1666667,-1.433333333,84.66666667
+11/27/2023,Transilvania,"['Ninsoare', 'Polei', 'Ninsori', 'Lapoviță']",BV,6.996666667,942.4,-1.86,71.66666667
+11/28/2023,Transilvania,"['Ninsori', 'Lapoviță', 'Polei', 'Vânt puternic', 'Viscol']",BV,16.56666667,932.9333333,2.416666667,75
+11/29/2023,Transilvania,"['Ninsori', 'Lapoviță', 'Vânt puternic']",BV,7.835,937.4333333,2.706666667,73
+11/30/2023,Transilvania,"['Ploi', 'Ninsoare', 'Vant puternic', 'Inundație', 'Furtună', 'Vânt puternic', 'Cod galben']",BV,21.31,946.1,1.383333333,65.33333333
+12/1/2023,Transilvania,"['Furtună', 'Vijelie', 'Fulger', 'Ninsori']",BV,9.655,938.5,13.57666667,56.33333333
+12/3/2023,Transilvania,"['Ninsoare', 'Vânt puternic']",BV,13.335,947.4,5.29,72.33333333
+12/4/2023,Transilvania,"['Ninsoare', 'Viscol']",BV,23.02333333,956.7333333,-1.476666667,76.66666667
+12/5/2023,Transilvania,"['Ger', 'Ninsoare']",BV,34.1675,950.7666667,-0.066666667,74.33333333
+12/6/2023,Transilvania,"['Ninsoare', 'Ploi sporadice', 'Zapada']",BV,37.235,947.1666667,1.506666667,82.66666667
+12/7/2023,Transilvania,"['Ninsori', 'Lapoviță', 'Zăpadă', 'Polei']",BV,13.315,948.8333333,2.293333333,88.66666667
+12/8/2023,Transilvania,['Ninsori'],BV,19.1975,951.0333333,2.396666667,86.66666667
+12/9/2023,Transilvania,"['Cer acoperit', 'Ceata', 'Precipitatii mixte', 'Polei']",BV,26.1675,952.0666667,0.553333333,85.33333333
+12/10/2023,Transilvania,"['Ninsoare', 'Lapoviță']",BV,23.9475,947.7,-1.07,90
+12/11/2023,Transilvania,"['Burnită', 'Polei', 'Ninsoare']",BV,42.5275,948.2666667,-0.05,90.66666667
+12/12/2023,Transilvania,"['Ninsoare', 'Lapoviță', 'Vânt intens', 'Ploi moderate cantitativ']",BV,68.7675,946.8666667,0.616666667,93
+12/13/2023,Transilvania,"['Ceață', 'Ploaie', 'Vânt', 'Ploi moderate']",BV,29.0525,941.2666667,5.043333333,81.66666667
+12/14/2023,Transilvania,"['Ploaie', 'Ninsoare', 'Vânt puternic']",BV,11.425,939.8333333,9.156666667,76.66666667
+12/15/2023,Transilvania,['Ninga'],BV,9.45,955.4666667,3.766666667,85.33333333
+12/16/2023,Transilvania,"['Ninga', 'Vant intens']",BV,13.585,966.7333333,0.896666667,83
+12/17/2023,Transilvania,"['Burnită', 'Ceată']",BV,24.6725,969.9666667,0.063333333,79
+12/18/2023,Transilvania,"['Ceata', 'Burnită', 'Polei', 'Ghețuș', 'Vânt puternic', 'Ceață', 'Ninsoare']",BV,41.6425,966.1,1.556666667,77.33333333
+12/19/2023,Transilvania,['Ceata'],BV,68.9725,959.6666667,0.613333333,83.66666667
+12/20/2023,Transilvania,"['Ceață', 'Polei']",BV,88.395,946.9666667,-0.8,88.33333333
+12/21/2023,Transilvania,"['Viscol', 'Ninsori viscolite', 'Viscol']",BV,34.1875,941,1.19,83
+12/22/2023,Transilvania,"['Vijelie', 'Ninsori viscolite', 'Viscol', 'Furtună', 'Viscol', 'Ninsori']",BV,24.23,928.3333333,1.71,75.66666667
+12/23/2023,Transilvania,"['Viscol', 'Ninsori viscolite', 'Ninsoare', 'Vânt puternic']",BV,4.6575,931.4333333,0.26,80.33333333
+12/24/2023,Transilvania,"['Viscol', 'Vânt', 'Viscol', 'Vijelie']",BV,5.135,941.4333333,2.166666667,84
+12/25/2023,Transilvania,"['Viscol', 'Furtună', 'Furtună', 'Vijelie']",BV,5.18,944,10.39666667,63.33333333
+12/26/2023,Transilvania,"['Fulger', 'Vijelie', 'Ceata']",BV,19.355,949.2666667,10.95333333,63
+12/27/2023,Transilvania,['Vijelie'],BV,13.45,955.6333333,6.866666667,68.33333333
+12/28/2023,Transilvania,"['Ceata', 'Ceață']",BV,82.21,958.4,1.246666667,81.33333333
+12/29/2023,Transilvania,['Ceață'],BV,81.34,954.8,1.403333333,85.33333333
+12/30/2023,Transilvania,['Ploaie'],BV,67.575,953.1333333,0.796666667,90.33333333
+12/31/2023,Transilvania,['Ceata'],BV,72.18,952.5666667,3.156666667,83.33333333
+1/2/2024,Transilvania,"['Ploi slabe', 'Innorari', 'Vant activ']",BV,15.82,946.9,4.433333333,62.33333333
+1/3/2024,Transilvania,"['Ninsoare', 'Viscol', 'Ploaie', 'Vant puternic', 'Ninsori viscolite', 'Viscol', 'Ninsori viscolite', 'Avalanșă']",BV,41.63,940.3666667,4.283333333,72
+1/4/2024,Transilvania,"['Ninsoare', 'Vant puternic', 'Ploaie']",BV,7.09,938.2333333,7.62,69.66666667
+1/5/2024,Transilvania,['Vânt puternic'],BV,18.56666667,945.5666667,6.973333333,55.33333333
+1/6/2024,Transilvania,"['Furtună', 'Grindină', 'Viscol']",BV,39.8725,943.4666667,3.99,68.33333333
+1/7/2024,Transilvania,"['Ninsori', 'Lapoviță', 'Ger']",BV,18.8325,935.5333333,3.406666667,80
+1/8/2024,Transilvania,"['Ninsori', 'Viscol', 'Ger', 'Viscol', 'Viscol']",BV,8.225,943.7666667,-2.32,81.66666667
+1/9/2024,Transilvania,"['Ger', 'Viscol', 'Ger']",BV,22.5375,960,-6.336666667,63
+1/10/2024,Transilvania,"['Ger', 'Viscol']",BV,59.90333333,963.0333333,-7.616666667,70
+1/12/2024,Transilvania,"['Ninsoare', 'Viscol']",BV,22.47,952.1,-3.64,77
+1/13/2024,Transilvania,['Viscol'],BV,21.5125,950.9666667,-3.15,66.66666667
+1/14/2024,Transilvania,"['Ninsoare', 'Viscol']",BV,24.8525,943.2666667,-1.846666667,66
+1/15/2024,Transilvania,"['Ninsori', 'Viscol']",BV,30.145,937.1,0.51,67.66666667
+1/16/2024,Transilvania,"['Viscol', 'Ger', 'Ninsoare']",BV,5.15,941.9666667,-0.383333333,69.33333333
+1/17/2024,Transilvania,"['Furtună', 'Viscol', 'Ninsoare', 'Vânt puternic']",BV,33.98,945.7666667,-2.193333333,66.66666667
+1/18/2024,Transilvania,"['Ploaie', 'Vânt puternic', 'Lapoviță', 'Ninsoare', 'Furtună', 'Vijelie', 'Ninsoare', 'Viscol']",BV,19.125,935.5,7.523333333,69.66666667
+1/19/2024,Transilvania,"['Ninsori', 'Viscol', 'Ninsoare', 'Viscol']",BV,15.81,938.6666667,7.536666667,79.33333333
+1/21/2024,Transilvania,"['Fulger', 'Zapada', 'Ger', 'Ceata']",BV,35.22333333,965.2333333,-7.703333333,83.66666667
+1/22/2024,Transilvania,"['Ger', 'Ceata']",BV,70.14,965.7,-10.14333333,84.66666667
+1/23/2024,Transilvania,"['Ninsori', 'Fulgi de zapadă', 'Ger', 'Vânt puternic']",BV,83.98,957.7,-6.07,77.66666667
+1/24/2024,Transilvania,"['Ninsori', 'Lapoviță', 'Viscol', 'Viscol']",BV,43.67333333,958.1,-0.626666667,80.66666667
+1/25/2024,Transilvania,"['Ninsori', 'Viscol', 'Viscol', 'Intensificari ale vantului']",BV,13.355,949,2.83,82
+1/26/2024,Transilvania,"['Ninsori', 'Viscol', 'Viscol']",BV,5.026666667,951.8666667,1.986666667,73
+1/27/2024,Transilvania,"['Viscol', 'Ninsoare', 'Viscol']",BV,9.386666667,953.6333333,0.886666667,82.33333333
+1/28/2024,Transilvania,"['Ninsori', 'Fulgi de zapadă', 'Vânt puternic']",BV,7.795,963.1333333,0.533333333,80.66666667
+1/29/2024,Transilvania,"['Ger', 'Fulger', 'Lapoviță']",BV,43.235,970.3333333,-4.856666667,78.66666667
+1/30/2024,Transilvania,['Ger'],BV,66.53666667,971.7666667,-6.34,79.66666667
+1/31/2024,Transilvania,"['Ceață', 'Ger']",BV,75.01666667,967.0333333,-6.5,80.33333333
+2/1/2024,Transilvania,"['Ninsori', 'Lapoviță']",BV,128.005,958.8666667,-4.393333333,79
+2/2/2024,Transilvania,"['Ninsori', 'Vant puternic']",BV,25.51,956.7333333,1.53,79
+2/3/2024,Transilvania,['Ceata'],BV,12.3825,953.3666667,2.903333333,74.66666667
+2/4/2024,Transilvania,"['Ceață', 'Ninsori', 'Caniculă', 'Vijelie']",BV,7.5175,950.0333333,5.903333333,76.33333333
+2/5/2024,Transilvania,"['Viscol', 'Ninsoare', 'Viscol', 'Ninsori viscolite', 'Vânt puternic', 'Viscol', 'Vijelie']",BV,5.225,945.1333333,8.903333333,65.66666667
+2/6/2024,Transilvania,['Vant puternic'],BV,14.31,947.5,12.37666667,35.66666667
+2/7/2024,Transilvania,"['Ploaie', 'Vant puternic']",BV,16.3075,944.0333333,9.606666667,58
+2/8/2024,Transilvania,['Ploaie'],BV,21.4225,941.8,9.03,59.33333333
+2/9/2024,Transilvania,['Ceață'],BV,34.1875,940.2666667,7.673333333,64
+2/10/2024,Transilvania,"['Ploi slabe', 'Vant puternic', 'Innouri', 'Posibila ploaie', 'Vant intens', 'Temperaturi ridicate', 'Lapovita', 'Ninsoare', 'Vant puternic', 'Vijelie']",BV,36.835,939.6,10.05,58.66666667
+2/11/2024,Transilvania,"['Ploaie', 'Vânt puternic', 'Vijelie']",BV,21.0575,937.9333333,13.09333333,41
+2/12/2024,Transilvania,"['Furtună', 'Grindină', 'Viscol', 'Ninsoare']",BV,18.855,935.7,10.28,70
+2/13/2024,Transilvania,"['Ploaie', 'Ninsori', 'Vânt puternic', 'Viscol', 'Ninsoare', 'Vânt puternic']",BV,6.065,940.7,5.763333333,87.33333333
+2/14/2024,Transilvania,"['Vijelie', 'Furtună', 'Viscol']",BV,8.2675,951.4666667,3.876666667,83
+2/15/2024,Transilvania,"['Ger', 'Fulger']",BV,16.945,956,5.01,64.66666667
+2/17/2024,Transilvania,"['Furtună', 'Ninsori']",BV,42.05,958.25,3.7275,79
+2/18/2024,Transilvania,['Ploaie'],BV,32.055,960.675,3.495,89.25
+2/19/2024,Transilvania,"['Ninsoare', 'Lapoviță', 'Polei']",BV,32.1925,956.875,4.5675,83.25
+2/20/2024,Transilvania,"['Ninsoare', 'Lapoviță', 'Ploaie']",BV,38.2575,954.8,3.6,85
+2/21/2024,Transilvania,"['Ploaie', 'Lapoviță']",BV,26.26,954.425,5.835,74.75
+2/22/2024,Transilvania,['Ceață'],BV,17.215,948.925,6.355,65
+2/23/2024,Transilvania,"['Furtună', 'Grindină']",BV,19.98666667,943.825,9.1975,51.25
+2/24/2024,Transilvania,"['Ploi', 'Vant puternic', 'Averse']",BV,17.355,946.25,12.0325,47.25
+2/25/2024,Transilvania,['Ploaie'],BV,19.0825,947.875,10.6975,65.75
+2/26/2024,Transilvania,['Ploaie'],BV,21.11,945.8,9.635,71
+2/27/2024,Transilvania,['Caniculă'],BV,25.7375,950.2,10.395,48.75
+2/28/2024,Transilvania,['Vânt puternic'],BV,32.7575,953.075,9.4825,51.25
+2/29/2024,Transilvania,"['Furtună', 'Vijelie', 'Fulger']",BV,42.6875,952.95,9.08,62.5
+3/1/2024,Transilvania,"['Ploi slabe', 'Vant activ', 'Precipitatii mixte', 'Rafale de vant']",BV,27.1025,948.4,10.75,53.25
+3/2/2024,Transilvania,['Ploaie'],BV,20.355,945.8,10.6225,47
+3/3/2024,Transilvania,['Ploaie'],BV,32.6675,945.325,8.4025,60.5
+3/4/2024,Transilvania,"['Ciclon', 'Furtună', 'Ploaie']",BV,37.68333333,944.8,8.9425,57.5
+3/6/2024,Transilvania,"['Ploaie', 'Lapoviță', 'Ninsoare', 'Vânt puternic', 'Ninsori', 'Grindină', 'Fulger']",BV,27.8,947.625,6.6575,64.25
+3/7/2024,Transilvania,"['Ploi', 'Lapoviță', 'Vânt', 'Grindină', 'Furtună']",BV,27.62,949.575,6.0325,53.75
+3/8/2024,Transilvania,"['Ninsori', 'Ceata']",BV,33.19,951.45,4.5175,59.75
+3/9/2024,Transilvania,['Ceață'],BV,29.9175,950.275,6.1375,62.5
+3/10/2024,Transilvania,"['Furtună', 'Vijelie', 'Grindină', 'Viscol']",BV,27.4425,948.175,6.9125,58.25
+3/11/2024,Transilvania,"['Ploaie', 'Vânt puternic', 'Viscol', 'Vânt puternic', 'Ploaie']",BV,26.055,947,9.305,64
+3/12/2024,Transilvania,"['Ploaie', 'Ninsori', 'Lapoviță']",BV,13.6075,942.35,7.67,83.25
+3/13/2024,Transilvania,"['Ploaie', 'Ninsori', 'Viscol', 'Ninsori', 'Viscol', 'Ninsori']",BV,5.0875,942.45,5.2325,92
+3/14/2024,Transilvania,['Ninsoră'],BV,7.7025,946.975,4.6875,91.75
+3/15/2024,Transilvania,['Ploaie'],BV,13.63,949.35,5.215,88.5
+3/16/2024,Transilvania,"['Cer senin', 'Vreme schimbătoare', 'Vânt intens']",BV,16.175,951.15,7.8775,71.5
+3/17/2024,Transilvania,"['Cer senin', 'Vreme schimbătoare', 'Vânt intens']",BV,18.63,950.4,8.0825,76.25
+3/18/2024,Transilvania,"['Ninsoare', 'Viscol']",BV,12.11,946.25,7.245,56
+3/19/2024,Transilvania,"['Ninsori', 'Lapoviță', 'Vânt puternic', 'Ninsoare', 'Vânt puternic']",BV,9.843333333,947.175,4.265,52.25
+3/20/2024,Transilvania,"['Lapoviță', 'Ninsoare', 'Fulger']",BV,10.61,951.75,4.635,63.5
+3/21/2024,Transilvania,"['Ninsori', 'Vânt puternic']",BV,11.495,951.25,5.115,75.25
+3/22/2024,Transilvania,"['Ploi slabe', 'Vant activ']",BV,19.72,950.75,6.4525,65
+3/23/2024,Transilvania,['Ploi'],BV,27.445,945.3,8.6825,60.5
+3/24/2024,Transilvania,"['Ninsori', 'Lapoviță', 'Ploi', 'Vânt', 'Ninsori', 'Vânt puternic', 'Ninsori', 'Vânt puternic']",BV,20.06,938.15,7.295,74.75
+3/25/2024,Transilvania,"['Precipitații mixte', 'Viscol']",BV,7.9275,937.7,3.995,79.75
+3/26/2024,Transilvania,['Vânt puternic'],BV,10.22,943.925,7.835,51.5
+3/27/2024,Transilvania,"['Vijelie', 'Furtună', 'Vânt puternic']",BV,15.95,940.55,10.9625,49.75
+3/28/2024,Transilvania,"['Furtună', 'Vijelie', 'Grindină', 'Viscol', 'Ninsoare', 'Vijelie']",BV,57.27,938.975,12.745,63.75
+3/29/2024,Transilvania,['Ploaie'],BV,19.695,947,13.5575,52.5
+3/31/2024,Transilvania,['Caniculă'],BV,59.93333333,947.525,17.925,44
+4/1/2024,Transilvania,"['Furtună', 'Vijelie', 'Vijelie', 'Ploaie', 'Vijelie']",BV,,945.325,21.2,26.5
+4/2/2024,Transilvania,"['Furtună', 'Averse', 'Fenomene electrice', 'Vânt puternic']",BV,,940.7,14.43,43.5
+4/3/2024,Transilvania,"['Ploi', 'Vânt']",BV,,947.325,12.1675,43.5
+4/5/2024,Transilvania,"['Furtună', 'Grindină']",BV,,953,11.645,70.5

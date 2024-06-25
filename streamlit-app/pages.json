@@ -1,0 +1,26 @@
+{
+  "0e5f0c0bd84f7593d97f1a72d94f3ae3": {
+    "page_script_hash": "0e5f0c0bd84f7593d97f1a72d94f3ae3",
+    "page_name": "Caracterizare_generala",
+    "icon": "\ud83c\udf10",
+    "script_path": "C:\\Users\\Alin\\Desktop\\Disertatie\\streamlit-app\\pages\\01_\ud83c\udf10Caracterizare generala.py"
+  },
+  "0f91a826d7caa9d6ef7603b9c5224912": {
+    "page_script_hash": "0f91a826d7caa9d6ef7603b9c5224912",
+    "page_name": "Analiza_exploratorie_a_datelor",
+    "icon": "\ud83d\udcca",
+    "script_path": "C:\\Users\\Alin\\Desktop\\Disertatie\\streamlit-app\\pages\\02_\ud83d\udccaAnaliza exploratorie a datelor.py"
+  },
+  "ce972540d12791ec57b05c5cf1f3db36": {
+    "page_script_hash": "ce972540d12791ec57b05c5cf1f3db36",
+    "page_name": "Analiza_de_cluster",
+    "icon": "\ud83d\udccd",
+    "script_path": "C:\\Users\\Alin\\Desktop\\Disertatie\\streamlit-app\\pages\\03_\ud83d\udccdAnaliza de cluster.py"
+  },
+  "84d40a6c1af1e4503a1cfe3e21581bb1": {
+    "page_script_hash": "84d40a6c1af1e4503a1cfe3e21581bb1",
+    "page_name": "Detectie_anomalii_meteorologice",
+    "icon": "\ud83d\udcc8",
+    "script_path": "C:\\Users\\Alin\\Desktop\\Disertatie\\streamlit-app\\pages\\04_\ud83d\udcc8Detectie anomalii meteorologice.py"
+  }
+}
