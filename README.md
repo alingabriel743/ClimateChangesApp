@@ -121,7 +121,17 @@
   </ul>
 </ol>
 </ol>
-
+<h2>Technologies used</h2>
+<ul>
+  <li><b>Python</b>: The primary programming language used for data processing, analysis, and building machine learning models.</li>
+  <li><b>Streamlit</b>: For creating the web application.</li>
+  <li><b>Pandas</b>: For data manipulation and analysis.</li>
+  <li><b>Scikit-learn</b>: For implementing machine learning algorithms.</li>
+  <li><b>TensorFlow</b>: For building and training neural networks (Autoencoder).</li>
+  <li><b>MongoDB</b>: For storing and managing the dataset.</li>
+  <li><b>Plotly</b>: For creating interactive visualizations.</li>
+  <li><b>Scrapy</b>: For web scraping weather news articles.</li>
+</ul>
 <h2>Getting started</h2>
 <p>To get started with the project:</p>
 <ol>
